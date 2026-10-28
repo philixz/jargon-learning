@@ -1,0 +1,44 @@
+/* Jargon-only layout overrides. Keep shared navigation and practice behavior independent. */
+.jargon-shell { padding: 22px 28px 44px; }
+.jargon-shell .project-heading { margin-bottom: 18px; gap: 16px; }
+.jargon-shell .project-heading h1 { margin: 0 0 6px; font-size: 28px; line-height: 1.3; }
+.jargon-shell .project-heading p { margin: 0; line-height: 1.65; }
+.jargon-tools { display: flex; align-items: flex-end; flex-wrap: wrap; gap: 12px 18px; margin-bottom: 18px; }
+.jargon-search { flex: 0 1 300px; min-width: 220px; }
+.jargon-tools input { margin-top: 6px; padding: 10px 13px; min-height: 44px; }
+.jargon-filters { flex: 1 1 420px; gap: 6px; margin: 0; }
+.jargon-filters button { min-height: 44px; padding: 8px 12px; }
+.jargon-layout { grid-template-columns: 230px minmax(0, 1fr); gap: 20px; }
+.jargon-list > .quiet { margin-top: 0; }
+.jargon-card { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); column-gap: 12px; padding: 24px; }
+.jargon-card > :not(.jargon-example):not(.jargon-counter) { grid-column: 1 / -1; min-width: 0; }
+.jargon-card > .meta { margin-bottom: 10px; }
+.jargon-card h2 { margin: 0 0 12px; font-size: 25px; line-height: 1.35; }
+.jargon-card > section { margin: 0 0 14px; line-height: 1.8; }
+.jargon-card h3 { margin-bottom: 6px; }
+.jargon-card .jargon-example, .jargon-card .jargon-counter { padding: 14px 16px; }
+.jargon-card .answerlabel { margin: 12px 0 8px; gap: 12px; }
+.jargon-card textarea { min-height: 140px; margin-bottom: 10px; }
+.jargon-card .jargon-actions button { min-height: 44px; }
+.jargon-card .jargon-selfcheck { padding-top: 14px; }
+.jargon-card > .history { margin: 20px 0 0; }
+@media (max-width: 900px) {
+  .jargon-tools { gap: 12px; }
+  .jargon-filters { flex-basis: 100%; }
+  .jargon-search { flex-basis: 100%; }
+  .jargon-tools input { max-width: none; }
+}
+@media (max-width: 680px) {
+  .jargon-shell { padding: 18px 16px 32px; }
+  .jargon-shell .project-heading { align-items: flex-start; gap: 10px; margin-bottom: 14px; }
+  .jargon-shell .project-heading h1 { font-size: 24px; }
+  .jargon-shell .project-heading > .pill { flex-shrink: 0; }
+  .jargon-layout { grid-template-columns: minmax(0, 1fr); gap: 14px; }
+  .jargon-card { grid-template-columns: minmax(0, 1fr); padding: 20px; }
+  .jargon-card > * { grid-column: 1; }
+  .jargon-card h2 { font-size: 23px; }
+  .jargon-card .answerlabel { flex-wrap: wrap; gap: 4px; }
+}
+@media (max-width: 420px) {
+  .jargon-shell .project-heading { flex-wrap: wrap; }
+}

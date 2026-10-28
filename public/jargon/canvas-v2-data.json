@@ -1,0 +1,307 @@
+{
+  "id": "design-evaluate-improve",
+  "title": "方案设计—评测—改进",
+  "groups": [
+    {
+      "id": "design",
+      "title": "方案设计",
+      "description": "有哪些方法，如何选择与配合？"
+    },
+    {
+      "id": "evaluate",
+      "title": "评测",
+      "description": "用什么题、和谁比、在哪些条件下比？"
+    },
+    {
+      "id": "improve",
+      "title": "改进",
+      "description": "哪里出错，修复后怎样验证？"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "prompt",
+      "label": "提示词",
+      "caption": "组织指令与上下文",
+      "group": "design",
+      "termId": "term-98a3332c46d6",
+      "exerciseId": null,
+      "x": 120,
+      "y": 180
+    },
+    {
+      "id": "rag",
+      "label": "RAG",
+      "caption": "检索资料辅助回答",
+      "group": "design",
+      "termId": "term-035ce0ef2cd9",
+      "exerciseId": "jargon-rag",
+      "x": 120,
+      "y": 350
+    },
+    {
+      "id": "finetuning",
+      "label": "微调",
+      "caption": "继续训练以适应任务",
+      "group": "design",
+      "termId": "term-0c7be5b8f989",
+      "exerciseId": "jargon-rag",
+      "x": 390,
+      "y": 350
+    },
+    {
+      "id": "workflow",
+      "label": "工作流",
+      "caption": "预先安排步骤与分支",
+      "group": "design",
+      "termId": "term-6f523a5da94f",
+      "exerciseId": "jargon-agent",
+      "x": 120,
+      "y": 600
+    },
+    {
+      "id": "agent",
+      "label": "Agent",
+      "caption": "按状态进行多步决策",
+      "group": "design",
+      "termId": "term-8294a026cadb",
+      "exerciseId": "jargon-agent",
+      "x": 390,
+      "y": 600
+    },
+    {
+      "id": "tools",
+      "label": "工具调用",
+      "caption": "模型提议，应用执行",
+      "group": "design",
+      "termId": "term-d9d2f2798825",
+      "exerciseId": "jargon-tools",
+      "x": 390,
+      "y": 770
+    },
+    {
+      "id": "baseline",
+      "label": "Baseline",
+      "caption": "比较效果的对照系",
+      "group": "evaluate",
+      "termId": "term-cea40980d615",
+      "exerciseId": "jargon-eval",
+      "x": 760,
+      "y": 180
+    },
+    {
+      "id": "benchmark",
+      "label": "Benchmark",
+      "caption": "固定题集与计分规则",
+      "group": "evaluate",
+      "termId": "term-c026e1c7f150",
+      "exerciseId": "jargon-eval",
+      "x": 760,
+      "y": 390
+    },
+    {
+      "id": "sota",
+      "label": "SOTA",
+      "caption": "特定条件下的最好水平",
+      "group": "evaluate",
+      "termId": "term-a4342fe0e3a5",
+      "exerciseId": "jargon-eval",
+      "x": 760,
+      "y": 600
+    },
+    {
+      "id": "badcase",
+      "label": "Badcase",
+      "caption": "用失败样本定位问题",
+      "group": "improve",
+      "termId": "term-eaecbf35197e",
+      "exerciseId": "jargon-badcase",
+      "x": 1130,
+      "y": 260
+    },
+    {
+      "id": "regression",
+      "label": "回归测试",
+      "caption": "修改后检查相关能力",
+      "group": "improve",
+      "termId": "term-8e45fe487ec5",
+      "exerciseId": "jargon-badcase",
+      "x": 1130,
+      "y": 510
+    },
+    {
+      "id": "loop",
+      "label": "闭环",
+      "caption": "改进后继续验证效果",
+      "group": "improve",
+      "termId": "term-43cffaa682bd",
+      "exerciseId": "jargon-loop",
+      "x": 1130,
+      "y": 760
+    }
+  ],
+  "relations": [
+    {
+      "id": "rag-ft",
+      "from": "rag",
+      "to": "finetuning",
+      "kind": "contrast",
+      "short": "区别",
+      "label": "机制不同，可组合",
+      "explanation": "RAG 在回答时检索资料；微调通过继续训练调整模型。它们不是必须二选一，应按知识更新与行为适配的需要选择或组合。",
+      "basis": [
+        "jargon-rag"
+      ]
+    },
+    {
+      "id": "workflow-agent",
+      "from": "workflow",
+      "to": "agent",
+      "kind": "contrast",
+      "short": "区别",
+      "label": "控制方式不同",
+      "explanation": "工作流预先安排步骤与分支；Agent 根据当前状态进行多步决策。不是从低级到高级的必经升级。",
+      "basis": [
+        "jargon-agent"
+      ]
+    },
+    {
+      "id": "agent-tools",
+      "from": "agent",
+      "to": "tools",
+      "kind": "cooperate",
+      "short": "配合",
+      "label": "可通过工具执行动作",
+      "explanation": "Agent 可以使用工具调用；模型输出调用意图，实际工具由应用执行，执行成功还需核验真实结果。",
+      "basis": [
+        "jargon-tools"
+      ]
+    },
+    {
+      "id": "rag-prompt",
+      "from": "rag",
+      "to": "prompt",
+      "kind": "cooperate",
+      "short": "配合",
+      "label": "检索资料进入上下文",
+      "explanation": "检索得到的资料可以成为模型输入上下文的一部分。仍需核对资料版本与回答依据，不能保证接上知识库就不会答错。",
+      "basis": [
+        "jargon-rag",
+        "jargon-grounding"
+      ]
+    },
+    {
+      "id": "baseline-benchmark",
+      "from": "baseline",
+      "to": "benchmark",
+      "kind": "contrast",
+      "short": "区别",
+      "label": "对照系与测试标准不同",
+      "explanation": "Baseline 提供比较的对照系；Benchmark 约定题集与计分规则。比较方案时，需要在一致条件下看它相对基线的表现。",
+      "basis": [
+        "jargon-eval"
+      ]
+    },
+    {
+      "id": "benchmark-sota",
+      "from": "benchmark",
+      "to": "sota",
+      "kind": "scope",
+      "short": "条件",
+      "label": "最好表现要说明测试条件",
+      "explanation": "SOTA 结论要限定任务、题集和测试条件，不能直接推断它在所有业务场景中最好。",
+      "basis": [
+        "jargon-eval"
+      ]
+    },
+    {
+      "id": "badcase-regression",
+      "from": "badcase",
+      "to": "regression",
+      "kind": "learning",
+      "short": "验证",
+      "label": "修复后回归验证",
+      "explanation": "失败样本帮助发现问题；修复后要测试同类变体和相关旧题、旧功能，避免只修好一个样本却损害旧能力。两者不等价。",
+      "basis": [
+        "jargon-badcase"
+      ]
+    },
+    {
+      "id": "regression-loop",
+      "from": "regression",
+      "to": "loop",
+      "kind": "learning",
+      "short": "验证",
+      "label": "为改进闭环提供验证",
+      "explanation": "回归测试能帮助确认改动有没有引入问题；完整闭环还需要归因、落实改进，并持续检查同类问题是否改善。",
+      "basis": [
+        "jargon-loop",
+        "jargon-badcase"
+      ]
+    },
+    {
+      "id": "badcase-benchmark",
+      "from": "badcase",
+      "to": "benchmark",
+      "kind": "learning",
+      "short": "补充评测",
+      "label": "失败样本补充业务评测",
+      "explanation": "Badcase 可以用于构建或补充业务评测题集，检验同类问题。这里是业务测试组织的学习关联，不表示可以随意修改公开 Benchmark 的题集和计分规则。",
+      "basis": [
+        "jargon-badcase",
+        "jargon-eval"
+      ]
+    },
+    {
+      "id": "tools-badcase",
+      "from": "tools",
+      "to": "badcase",
+      "kind": "learning",
+      "short": "执行核验",
+      "label": "核验执行结果，记录失败",
+      "explanation": "工具调用不能只看模型说成功。核对真实交易或系统状态后，将失败作为 Badcase 分析，定位调用与执行链路的问题。",
+      "basis": [
+        "jargon-tools",
+        "jargon-badcase"
+      ]
+    },
+    {
+      "id": "rag-badcase",
+      "from": "rag",
+      "to": "badcase",
+      "kind": "learning",
+      "short": "排查依据",
+      "label": "答错时排查检索与依据",
+      "explanation": "RAG 回答出错时，可将案例记录下来，分别检查资料是否适用、版本是否正确，以及引用内容是否真正支撑回答。",
+      "basis": [
+        "jargon-grounding",
+        "jargon-badcase"
+      ]
+    },
+    {
+      "id": "baseline-loop",
+      "from": "baseline",
+      "to": "loop",
+      "kind": "learning",
+      "short": "对照验证",
+      "label": "用一致口径对照改进效果",
+      "explanation": "改进后在一致任务和统计条件下对照原方案，检查效果是否改善。它为闭环提供证据，而不是一次分数提高就代表完成闭环。",
+      "basis": [
+        "jargon-eval",
+        "jargon-loop"
+      ]
+    }
+  ],
+  "coreRelations": [
+    "rag-ft",
+    "workflow-agent",
+    "agent-tools",
+    "baseline-benchmark",
+    "benchmark-sota",
+    "badcase-regression",
+    "regression-loop",
+    "badcase-benchmark",
+    "tools-badcase",
+    "rag-badcase"
+  ]
+}

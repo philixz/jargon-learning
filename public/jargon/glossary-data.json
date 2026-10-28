@@ -1,0 +1,3886 @@
+{
+  "version": 1,
+  "count": 430,
+  "counts": {
+    "产品经理": 288,
+    "AI": 142
+  },
+  "attribution": {
+    "author": "AI-PM Wiki Team",
+    "project": "AI-PM-Wiki/AIPM",
+    "license": "CC BY-SA 4.0",
+    "changes": "按原表逐行收录，保留分类与释义；去除 Markdown 显示标记。"
+  },
+  "records": [
+    {
+      "id": "term-a541e1b3ef8f",
+      "collection": "产品经理",
+      "topic": "大厂黑话（通用）",
+      "term": "对齐",
+      "meaning": "双方达成一致。开会结束时最常说的词（\"回头我们对齐一下\"）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 19
+    },
+    {
+      "id": "term-f54b5e01c1bf",
+      "collection": "产品经理",
+      "topic": "大厂黑话（通用）",
+      "term": "拉通",
+      "meaning": "让相关方共享信息、达成共识，比\"对齐\"多一层\"打通部门壁垒\"的意思",
+      "source_file": "产品经理黑话.md",
+      "source_line": 20
+    },
+    {
+      "id": "term-6383fcf2fdca",
+      "collection": "产品经理",
+      "topic": "大厂黑话（通用）",
+      "term": "赋能",
+      "meaning": "给资源、能力、平台支持别人（真实含义常常是\"把活分给你\"）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 21
+    },
+    {
+      "id": "term-818c17575c3f",
+      "collection": "产品经理",
+      "topic": "大厂黑话（通用）",
+      "term": "抓手",
+      "meaning": "重点工作、突破口、切入点。老板最爱问\"这件事的抓手是什么？\"",
+      "source_file": "产品经理黑话.md",
+      "source_line": 22
+    },
+    {
+      "id": "term-43cffaa682bd",
+      "collection": "产品经理",
+      "topic": "大厂黑话（通用）",
+      "term": "闭环",
+      "meaning": "从目标到执行的完整循环（\"形成闭环\"=首尾相连能自己转）。经典吐槽：做 PPT 时画个圈就是闭环",
+      "source_file": "产品经理黑话.md",
+      "source_line": 23
+    },
+    {
+      "id": "term-f369d5e15e0a",
+      "collection": "产品经理",
+      "topic": "大厂黑话（通用）",
+      "term": "颗粒度",
+      "meaning": "方案的细致程度。\"颗粒度不够细\"=再细化到可执行",
+      "source_file": "产品经理黑话.md",
+      "source_line": 24
+    },
+    {
+      "id": "term-d541b08c84c3",
+      "collection": "产品经理",
+      "topic": "大厂黑话（通用）",
+      "term": "底层逻辑",
+      "meaning": "事情背后的根本规律。万能话术，问就是\"这事底层逻辑是什么\"",
+      "source_file": "产品经理黑话.md",
+      "source_line": 25
+    },
+    {
+      "id": "term-5eeaa8924ad3",
+      "collection": "产品经理",
+      "topic": "大厂黑话（通用）",
+      "term": "顶层设计",
+      "meaning": "全局性规划，从最高层往下设计",
+      "source_file": "产品经理黑话.md",
+      "source_line": 26
+    },
+    {
+      "id": "term-0dc56b5063fd",
+      "collection": "产品经理",
+      "topic": "大厂黑话（通用）",
+      "term": "方法论",
+      "meaning": "可复用的经验总结。\"沉淀一套方法论\"是晋升答辩必备",
+      "source_file": "产品经理黑话.md",
+      "source_line": 27
+    },
+    {
+      "id": "term-cbbf5267a8ff",
+      "collection": "产品经理",
+      "topic": "大厂黑话（通用）",
+      "term": "沉淀",
+      "meaning": "把经验、资产固化保存下来",
+      "source_file": "产品经理黑话.md",
+      "source_line": 28
+    },
+    {
+      "id": "term-45c7ab88ee6c",
+      "collection": "产品经理",
+      "topic": "大厂黑话（通用）",
+      "term": "复盘",
+      "meaning": "对已完成项目的回顾总结。被老板说\"你回去复盘一下\"= 出问题了",
+      "source_file": "产品经理黑话.md",
+      "source_line": 29
+    },
+    {
+      "id": "term-8d2567e5237c",
+      "collection": "产品经理",
+      "topic": "大厂黑话（通用）",
+      "term": "对标",
+      "meaning": "找标杆产品/公司对比找差距（\"对标微信\"=照抄微信）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 30
+    },
+    {
+      "id": "term-316c757b44c1",
+      "collection": "产品经理",
+      "topic": "大厂黑话（通用）",
+      "term": "倒逼",
+      "meaning": "从目标结果反推倒推来推动（\"用 KPI 倒逼进度\"）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 31
+    },
+    {
+      "id": "term-32968bbf5ea0",
+      "collection": "产品经理",
+      "topic": "大厂黑话（通用）",
+      "term": "组合拳",
+      "meaning": "多个手段配合使用",
+      "source_file": "产品经理黑话.md",
+      "source_line": 32
+    },
+    {
+      "id": "term-a15b7e96934a",
+      "collection": "产品经理",
+      "topic": "大厂黑话（通用）",
+      "term": "点线面",
+      "meaning": "从小点切入，连成线，铺成面（讲规划时的万能叙事结构）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 33
+    },
+    {
+      "id": "term-2c495e81f7f0",
+      "collection": "产品经理",
+      "topic": "大厂黑话（通用）",
+      "term": "护城河",
+      "meaning": "竞争壁垒，别人难以复制的能力（\"我们的护城河是什么\"≈灵魂拷问）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 34
+    },
+    {
+      "id": "term-108963c1c9c2",
+      "collection": "产品经理",
+      "topic": "大厂黑话（通用）",
+      "term": "第二曲线",
+      "meaning": "主营业务之外的新增长业务",
+      "source_file": "产品经理黑话.md",
+      "source_line": 35
+    },
+    {
+      "id": "term-b8ca4c70b54b",
+      "collection": "产品经理",
+      "topic": "大厂黑话（通用）",
+      "term": "基本盘",
+      "meaning": "核心业务/根本基础，不能丢的部分",
+      "source_file": "产品经理黑话.md",
+      "source_line": 36
+    },
+    {
+      "id": "term-681c7e2d8616",
+      "collection": "产品经理",
+      "topic": "大厂黑话（通用）",
+      "term": "天花板",
+      "meaning": "增长上限。\"这个赛道天花板太低\"=别做了",
+      "source_file": "产品经理黑话.md",
+      "source_line": 37
+    },
+    {
+      "id": "term-e26969d9d290",
+      "collection": "产品经理",
+      "topic": "大厂黑话（通用）",
+      "term": "降维打击",
+      "meaning": "用更高级的手段碾压对手",
+      "source_file": "产品经理黑话.md",
+      "source_line": 38
+    },
+    {
+      "id": "term-e2effce24263",
+      "collection": "产品经理",
+      "topic": "大厂黑话（通用）",
+      "term": "心智",
+      "meaning": "用户对产品的认知。\"占领用户心智\"=让用户一想到某类需求就想到你",
+      "source_file": "产品经理黑话.md",
+      "source_line": 39
+    },
+    {
+      "id": "term-4b08fe55dfe5",
+      "collection": "产品经理",
+      "topic": "大厂黑话（通用）",
+      "term": "链路",
+      "meaning": "业务/用户行为流程。\"打通全链路\"=串起来",
+      "source_file": "产品经理黑话.md",
+      "source_line": 40
+    },
+    {
+      "id": "term-1be75f64e77f",
+      "collection": "产品经理",
+      "topic": "大厂黑话（通用）",
+      "term": "声量",
+      "meaning": "品牌/话题的热度与讨论量",
+      "source_file": "产品经理黑话.md",
+      "source_line": 41
+    },
+    {
+      "id": "term-ba6f8473effc",
+      "collection": "产品经理",
+      "topic": "大厂黑话（通用）",
+      "term": "势能",
+      "meaning": "积累的优势和动能。\"借势能\"=蹭热点",
+      "source_file": "产品经理黑话.md",
+      "source_line": 42
+    },
+    {
+      "id": "term-7fdeb44d48d1",
+      "collection": "产品经理",
+      "topic": "大厂黑话（通用）",
+      "term": "破圈",
+      "meaning": "突破原有用户圈层，触达新人群",
+      "source_file": "产品经理黑话.md",
+      "source_line": 43
+    },
+    {
+      "id": "term-97f8649c8eb8",
+      "collection": "产品经理",
+      "topic": "大厂黑话（通用）",
+      "term": "外溢",
+      "meaning": "效果/影响力扩散到其他渠道（\"小红书流量外溢到淘宝\"）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 44
+    },
+    {
+      "id": "term-11af4b950a3e",
+      "collection": "产品经理",
+      "topic": "大厂黑话（通用）",
+      "term": "操盘",
+      "meaning": "整体把控并执行某个项目/业务",
+      "source_file": "产品经理黑话.md",
+      "source_line": 45
+    },
+    {
+      "id": "term-584f1cd53a0f",
+      "collection": "产品经理",
+      "topic": "大厂黑话（通用）",
+      "term": "矩阵",
+      "meaning": "多个账号/产品/业务的组合布局（\"全平台矩阵\"）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 46
+    },
+    {
+      "id": "term-f208806107ca",
+      "collection": "产品经理",
+      "topic": "大厂黑话（通用）",
+      "term": "赛马",
+      "meaning": "内部多个团队做同一件事，胜者上（内部竞争机制）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 47
+    },
+    {
+      "id": "term-8f95777fd167",
+      "collection": "产品经理",
+      "topic": "大厂黑话（通用）",
+      "term": "冷启动",
+      "meaning": "产品从零起步、没有用户基础时开始运营",
+      "source_file": "产品经理黑话.md",
+      "source_line": 48
+    },
+    {
+      "id": "term-dd7640555574",
+      "collection": "产品经理",
+      "topic": "大厂黑话（通用）",
+      "term": "中台",
+      "meaning": "把多个业务共用的能力（账号、支付、数据）抽出来统一建设",
+      "source_file": "产品经理黑话.md",
+      "source_line": 49
+    },
+    {
+      "id": "term-a37f056c169d",
+      "collection": "产品经理",
+      "topic": "大厂黑话（通用）",
+      "term": "脱敏",
+      "meaning": "移除/替换敏感数据，保护隐私（对外展示数据前必说）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 50
+    },
+    {
+      "id": "term-c5814e28a8c0",
+      "collection": "产品经理",
+      "topic": "大厂黑话（通用）",
+      "term": "抽离透传",
+      "meaning": "不判断、不加工，原样传递信息（把锅原样传给上级）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 51
+    },
+    {
+      "id": "term-1983a1fb6978",
+      "collection": "产品经理",
+      "topic": "大厂黑话（通用）",
+      "term": "引爆点",
+      "meaning": "让产品/内容突然爆发的关键点",
+      "source_file": "产品经理黑话.md",
+      "source_line": 52
+    },
+    {
+      "id": "term-7cd52b0d200a",
+      "collection": "产品经理",
+      "topic": "大厂黑话（通用）",
+      "term": "复用打法",
+      "meaning": "把已有成功经验套用到其他场景",
+      "source_file": "产品经理黑话.md",
+      "source_line": 53
+    },
+    {
+      "id": "term-e68a054be457",
+      "collection": "产品经理",
+      "topic": "需求与文档",
+      "term": "PRD",
+      "meaning": "Product Requirements Document，产品需求文档，PM 的核心交付物，开发照它干活",
+      "source_file": "产品经理黑话.md",
+      "source_line": 59
+    },
+    {
+      "id": "term-f246c192a46e",
+      "collection": "产品经理",
+      "topic": "需求与文档",
+      "term": "MRD",
+      "meaning": "Market Requirements Document，市场需求文档，讲市场机会",
+      "source_file": "产品经理黑话.md",
+      "source_line": 60
+    },
+    {
+      "id": "term-fbe731e53d1f",
+      "collection": "产品经理",
+      "topic": "需求与文档",
+      "term": "BRD",
+      "meaning": "Business Requirements Document，商业需求文档，讲商业价值，通常给老板看",
+      "source_file": "产品经理黑话.md",
+      "source_line": 61
+    },
+    {
+      "id": "term-7672928709af",
+      "collection": "产品经理",
+      "topic": "需求与文档",
+      "term": "FSD",
+      "meaning": "Functional Specifications Document，功能详细说明",
+      "source_file": "产品经理黑话.md",
+      "source_line": 62
+    },
+    {
+      "id": "term-d11de74f87b6",
+      "collection": "产品经理",
+      "topic": "需求与文档",
+      "term": "需求池",
+      "meaning": "收集和管理需求的清单，按优先级排队",
+      "source_file": "产品经理黑话.md",
+      "source_line": 63
+    },
+    {
+      "id": "term-7206710a7088",
+      "collection": "产品经理",
+      "topic": "需求与文档",
+      "term": "需求评审（RE）",
+      "meaning": "评审需求的会议，PM 被开发围攻的地方",
+      "source_file": "产品经理黑话.md",
+      "source_line": 64
+    },
+    {
+      "id": "term-a528919a8ab2",
+      "collection": "产品经理",
+      "topic": "需求与文档",
+      "term": "KANO 模型",
+      "meaning": "需求分级模型：基本型（没有会死）、期望型（有了更好）、兴奋型（惊喜点）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 65
+    },
+    {
+      "id": "term-db4729efc31a",
+      "collection": "产品经理",
+      "topic": "需求与文档",
+      "term": "MVP",
+      "meaning": "Minimum Viable Product，最小可行产品：用最小成本做出能验证需求的产品",
+      "source_file": "产品经理黑话.md",
+      "source_line": 66
+    },
+    {
+      "id": "term-f5c56f0333a5",
+      "collection": "产品经理",
+      "topic": "需求与文档",
+      "term": "PMF",
+      "meaning": "Product-Market Fit，产品与市场契合，找到了愿意用的用户",
+      "source_file": "产品经理黑话.md",
+      "source_line": 67
+    },
+    {
+      "id": "term-cf425ce98913",
+      "collection": "产品经理",
+      "topic": "需求与文档",
+      "term": "用户故事",
+      "meaning": "User Story，以用户视角描述需求：\"作为XX，我想要XX，以便XX\"",
+      "source_file": "产品经理黑话.md",
+      "source_line": 68
+    },
+    {
+      "id": "term-385630506188",
+      "collection": "产品经理",
+      "topic": "需求与文档",
+      "term": "场景",
+      "meaning": "用户使用产品的具体情境（\"考虑用户场景\"=想清楚谁在什么情况用）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 69
+    },
+    {
+      "id": "term-74de0e524c43",
+      "collection": "产品经理",
+      "topic": "需求与文档",
+      "term": "痛点",
+      "meaning": "用户遇到的问题，越痛需求越刚",
+      "source_file": "产品经理黑话.md",
+      "source_line": 70
+    },
+    {
+      "id": "term-ba9f1c05e463",
+      "collection": "产品经理",
+      "topic": "需求与文档",
+      "term": "痒点",
+      "meaning": "用户想要但没有强烈必需的需求（\"咋让用户上瘾\"）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 71
+    },
+    {
+      "id": "term-66a796226f7d",
+      "collection": "产品经理",
+      "topic": "需求与文档",
+      "term": "爽点",
+      "meaning": "即时满足的快感，用了立刻觉得爽",
+      "source_file": "产品经理黑话.md",
+      "source_line": 72
+    },
+    {
+      "id": "term-5ba62dc55eda",
+      "collection": "产品经理",
+      "topic": "需求与文档",
+      "term": "用户画像",
+      "meaning": "对目标用户的基本信息、行为、偏好和场景等特征进行抽象描述，常由用户标签组合形成",
+      "source_file": "产品经理黑话.md",
+      "source_line": 73
+    },
+    {
+      "id": "term-4c3d8f5578ed",
+      "collection": "产品经理",
+      "topic": "需求与文档",
+      "term": "竞品分析",
+      "meaning": "研究竞争对手的产品和策略",
+      "source_file": "产品经理黑话.md",
+      "source_line": 74
+    },
+    {
+      "id": "term-6b8a8cf3e2c2",
+      "collection": "产品经理",
+      "topic": "需求与文档",
+      "term": "埋点",
+      "meaning": "在界面关键位置植入数据采集代码，收集用户行为数据",
+      "source_file": "产品经理黑话.md",
+      "source_line": 75
+    },
+    {
+      "id": "term-63e9e2fd848d",
+      "collection": "产品经理",
+      "topic": "需求与文档",
+      "term": "代码埋点",
+      "meaning": "由开发人员在代码中手动添加采集逻辑；事件定义和数据精度可控，开发成本较高",
+      "source_file": "产品经理黑话.md",
+      "source_line": 76
+    },
+    {
+      "id": "term-97b65c13aa97",
+      "collection": "产品经理",
+      "topic": "需求与文档",
+      "term": "可视化埋点",
+      "meaning": "通过可视化工具配置页面元素和采集事件；减少逐个修改代码的成本，适合标准化交互",
+      "source_file": "产品经理黑话.md",
+      "source_line": 77
+    },
+    {
+      "id": "term-1cf1e482a8ad",
+      "collection": "产品经理",
+      "topic": "需求与文档",
+      "term": "全埋点（也称无埋点）",
+      "meaning": "通过 SDK 自动采集预设的页面浏览、点击等行为；通常仍需配置采集范围和数据规则",
+      "source_file": "产品经理黑话.md",
+      "source_line": 78
+    },
+    {
+      "id": "term-5f030a9e1037",
+      "collection": "产品经理",
+      "topic": "需求与文档",
+      "term": "灰度发布",
+      "meaning": "新版本先给一小部分用户试用，稳定后再全量（程序员版“先拿小号试试水”）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 79
+    },
+    {
+      "id": "term-d30c69c692fc",
+      "collection": "产品经理",
+      "topic": "需求与文档",
+      "term": "迭代",
+      "meaning": "版本更新优化（\"快节奏迭代\"=不停改版本）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 80
+    },
+    {
+      "id": "term-1556df713594",
+      "collection": "产品经理",
+      "topic": "设计与体验（UED/UCD/UE/UX/UI）",
+      "term": "UED",
+      "meaning": "User Experience Design，用户体验设计，通常指设计团队/部门",
+      "source_file": "产品经理黑话.md",
+      "source_line": 86
+    },
+    {
+      "id": "term-42a0fe0cbdc4",
+      "collection": "产品经理",
+      "topic": "设计与体验（UED/UCD/UE/UX/UI）",
+      "term": "UCD",
+      "meaning": "User Centered Design，以用户为中心的设计，一种设计方法论（不是岗位）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 87
+    },
+    {
+      "id": "term-d69d04b0e42e",
+      "collection": "产品经理",
+      "topic": "设计与体验（UED/UCD/UE/UX/UI）",
+      "term": "UE",
+      "meaning": "User Experience，用户体验，早期叫法，与 UX 同义",
+      "source_file": "产品经理黑话.md",
+      "source_line": 88
+    },
+    {
+      "id": "term-356f7470dc6a",
+      "collection": "产品经理",
+      "topic": "设计与体验（UED/UCD/UE/UX/UI）",
+      "term": "UX",
+      "meaning": "User Experience，用户体验；现在也常指用户体验设计师（UX Designer）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 89
+    },
+    {
+      "id": "term-7841d4ca4f89",
+      "collection": "产品经理",
+      "topic": "设计与体验（UED/UCD/UE/UX/UI）",
+      "term": "UI",
+      "meaning": "User Interface，用户界面；也指界面设计师（画图的）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 90
+    },
+    {
+      "id": "term-dc5cba86589d",
+      "collection": "产品经理",
+      "topic": "设计与体验（UED/UCD/UE/UX/UI）",
+      "term": "交互设计（IxD）",
+      "meaning": "Interaction Design，设计用户与产品交互的行为与反馈。UI 管\"长什么样\"，交互管\"怎么用\"",
+      "source_file": "产品经理黑话.md",
+      "source_line": 91
+    },
+    {
+      "id": "term-a4c80cd50a22",
+      "collection": "产品经理",
+      "topic": "设计与体验（UED/UCD/UE/UX/UI）",
+      "term": "视觉设计",
+      "meaning": "Visual Design，界面视觉表现（配色、图标、排版）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 92
+    },
+    {
+      "id": "term-d52600e7f7b5",
+      "collection": "产品经理",
+      "topic": "设计与体验（UED/UCD/UE/UX/UI）",
+      "term": "线框图",
+      "meaning": "Wireframe，用线条框出页面结构和布局，不讲究视觉",
+      "source_file": "产品经理黑话.md",
+      "source_line": 93
+    },
+    {
+      "id": "term-9b15f4015392",
+      "collection": "产品经理",
+      "topic": "设计与体验（UED/UCD/UE/UX/UI）",
+      "term": "低保真原型",
+      "meaning": "用线框/草图表达的快速原型，验证流程用",
+      "source_file": "产品经理黑话.md",
+      "source_line": 94
+    },
+    {
+      "id": "term-fcd895257ecf",
+      "collection": "产品经理",
+      "topic": "设计与体验（UED/UCD/UE/UX/UI）",
+      "term": "高保真原型",
+      "meaning": "接近最终效果的带视觉原型，演示和评审用",
+      "source_file": "产品经理黑话.md",
+      "source_line": 95
+    },
+    {
+      "id": "term-f994f00e5e3c",
+      "collection": "产品经理",
+      "topic": "设计与体验（UED/UCD/UE/UX/UI）",
+      "term": "原型",
+      "meaning": "Prototype，可交互的页面示意稿。主流工具：Axure、Figma、墨刀",
+      "source_file": "产品经理黑话.md",
+      "source_line": 96
+    },
+    {
+      "id": "term-e3a4f1fcd2dd",
+      "collection": "产品经理",
+      "topic": "设计与体验（UED/UCD/UE/UX/UI）",
+      "term": "走查",
+      "meaning": "Walkthrough，按用户流程把页面过一遍，找逻辑和体验问题",
+      "source_file": "产品经理黑话.md",
+      "source_line": 97
+    },
+    {
+      "id": "term-816408ee4b33",
+      "collection": "产品经理",
+      "topic": "设计与体验（UED/UCD/UE/UX/UI）",
+      "term": "可用性测试",
+      "meaning": "找真实用户操作产品，观察记录他们怎么卡住",
+      "source_file": "产品经理黑话.md",
+      "source_line": 98
+    },
+    {
+      "id": "term-d47f70c8845b",
+      "collection": "产品经理",
+      "topic": "设计与体验（UED/UCD/UE/UX/UI）",
+      "term": "用户旅程地图",
+      "meaning": "User Journey Map，从发现、使用到离开的全流程体验地图，标注每个环节的感受",
+      "source_file": "产品经理黑话.md",
+      "source_line": 99
+    },
+    {
+      "id": "term-7f93558bb327",
+      "collection": "产品经理",
+      "topic": "设计与体验（UED/UCD/UE/UX/UI）",
+      "term": "触点",
+      "meaning": "Touchpoint，用户与产品/品牌接触的每一个点",
+      "source_file": "产品经理黑话.md",
+      "source_line": 100
+    },
+    {
+      "id": "term-2a3eb077745c",
+      "collection": "产品经理",
+      "topic": "设计与体验（UED/UCD/UE/UX/UI）",
+      "term": "峰终定律",
+      "meaning": "用户对体验的记忆由峰值和结束时的感受决定，中间过程记不住",
+      "source_file": "产品经理黑话.md",
+      "source_line": 101
+    },
+    {
+      "id": "term-5715fbe164ef",
+      "collection": "产品经理",
+      "topic": "设计与体验（UED/UCD/UE/UX/UI）",
+      "term": "MOT",
+      "meaning": "Moment of Truth，关键时刻，决定用户留不留的瞬间",
+      "source_file": "产品经理黑话.md",
+      "source_line": 102
+    },
+    {
+      "id": "term-891f95560924",
+      "collection": "产品经理",
+      "topic": "设计与体验（UED/UCD/UE/UX/UI）",
+      "term": "设计规范/Design System",
+      "meaning": "统一的组件、颜色、字体规范，让多端产品长得像一家人",
+      "source_file": "产品经理黑话.md",
+      "source_line": 103
+    },
+    {
+      "id": "term-7deb581717c9",
+      "collection": "产品经理",
+      "topic": "设计与体验（UED/UCD/UE/UX/UI）",
+      "term": "组件化",
+      "meaning": "把通用 UI 拆成可复用组件",
+      "source_file": "产品经理黑话.md",
+      "source_line": 104
+    },
+    {
+      "id": "term-b149a27557d8",
+      "collection": "产品经理",
+      "topic": "设计与体验（UED/UCD/UE/UX/UI）",
+      "term": "设计思维",
+      "meaning": "Design Thinking，以用户为中心的创新方法论（同理心→定义→构思→原型→测试）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 105
+    },
+    {
+      "id": "term-0f047cd1640f",
+      "collection": "产品经理",
+      "topic": "设计与体验（UED/UCD/UE/UX/UI）",
+      "term": "双钻模型",
+      "meaning": "设计流程经典模型：先发散找问题，再收敛定方案，两轮",
+      "source_file": "产品经理黑话.md",
+      "source_line": 106
+    },
+    {
+      "id": "term-56cda7ee3d06",
+      "collection": "产品经理",
+      "topic": "设计与体验（UED/UCD/UE/UX/UI）",
+      "term": "信息架构（IA）",
+      "meaning": "信息的组织与导航结构，决定用户找不找得到东西",
+      "source_file": "产品经理黑话.md",
+      "source_line": 107
+    },
+    {
+      "id": "term-1c83d62cc0f7",
+      "collection": "产品经理",
+      "topic": "设计与体验（UED/UCD/UE/UX/UI）",
+      "term": "F 型浏览",
+      "meaning": "用户扫网页时视线呈 F 形：横着扫、再横着扫、竖着往下滑",
+      "source_file": "产品经理黑话.md",
+      "source_line": 108
+    },
+    {
+      "id": "term-e74886b3a36a",
+      "collection": "产品经理",
+      "topic": "设计与体验（UED/UCD/UE/UX/UI）",
+      "term": "尼尔森十大可用性原则",
+      "meaning": "可用性设计经典检查清单（状态可见、贴近现实、用户可控……）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 109
+    },
+    {
+      "id": "term-39a9f73d75b5",
+      "collection": "产品经理",
+      "topic": "测试与质量",
+      "term": "开关测试",
+      "meaning": "验证功能开关开启、关闭及切换时的功能、数据和权限表现；常用于灰度发布和快速回滚",
+      "source_file": "产品经理黑话.md",
+      "source_line": 115
+    },
+    {
+      "id": "term-42ad13f8eb67",
+      "collection": "产品经理",
+      "topic": "测试与质量",
+      "term": "冒烟测试",
+      "meaning": "正式测试前验证核心链路能否运行；不通过则停止后续测试",
+      "source_file": "产品经理黑话.md",
+      "source_line": 116
+    },
+    {
+      "id": "term-b83bf7abf1a4",
+      "collection": "产品经理",
+      "topic": "测试与质量",
+      "term": "单元测试",
+      "meaning": "针对函数、类等最小代码单元进行验证，定位问题范围较小",
+      "source_file": "产品经理黑话.md",
+      "source_line": 117
+    },
+    {
+      "id": "term-e6ba5ebe909a",
+      "collection": "产品经理",
+      "topic": "测试与质量",
+      "term": "接口测试",
+      "meaning": "验证接口的请求参数、响应数据、错误码、权限和边界条件",
+      "source_file": "产品经理黑话.md",
+      "source_line": 118
+    },
+    {
+      "id": "term-0fa14ae3c28f",
+      "collection": "产品经理",
+      "topic": "测试与质量",
+      "term": "集成测试",
+      "meaning": "验证多个模块、服务或系统组合后的协作是否正确",
+      "source_file": "产品经理黑话.md",
+      "source_line": 119
+    },
+    {
+      "id": "term-83a7f5111a00",
+      "collection": "产品经理",
+      "topic": "测试与质量",
+      "term": "功能测试",
+      "meaning": "按需求验证产品功能、业务规则和异常流程是否符合预期",
+      "source_file": "产品经理黑话.md",
+      "source_line": 120
+    },
+    {
+      "id": "term-8e45fe487ec5",
+      "collection": "产品经理",
+      "topic": "测试与质量",
+      "term": "回归测试",
+      "meaning": "修改代码或配置后重新验证相关功能，确认没有引入新问题",
+      "source_file": "产品经理黑话.md",
+      "source_line": 121
+    },
+    {
+      "id": "term-585fcd460d41",
+      "collection": "产品经理",
+      "topic": "测试与质量",
+      "term": "性能测试",
+      "meaning": "测量系统在不同负载下的响应时间、吞吐、并发和资源使用情况",
+      "source_file": "产品经理黑话.md",
+      "source_line": 122
+    },
+    {
+      "id": "term-b675630082ae",
+      "collection": "产品经理",
+      "topic": "测试与质量",
+      "term": "兼容性测试",
+      "meaning": "验证产品在不同设备、操作系统、浏览器、网络和版本组合下的表现",
+      "source_file": "产品经理黑话.md",
+      "source_line": 123
+    },
+    {
+      "id": "term-27e2d26f7f0b",
+      "collection": "产品经理",
+      "topic": "测试与质量",
+      "term": "验收测试 / UAT",
+      "meaning": "User Acceptance Testing，用户验收测试；由业务方或代表用户确认产品是否满足使用要求",
+      "source_file": "产品经理黑话.md",
+      "source_line": 124
+    },
+    {
+      "id": "term-402697d6d844",
+      "collection": "产品经理",
+      "topic": "数据与指标",
+      "term": "DAU/WAU/MAU",
+      "meaning": "Daily/Weekly/Monthly Active User，日/周/月活跃用户数，产品的\"人气值\"",
+      "source_file": "产品经理黑话.md",
+      "source_line": 130
+    },
+    {
+      "id": "term-74da888c5a1f",
+      "collection": "产品经理",
+      "topic": "数据与指标",
+      "term": "PV/UV",
+      "meaning": "Page View 页面浏览量（按次数）/ Unique Visitor 独立访客（按人数）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 131
+    },
+    {
+      "id": "term-e882f82d97f6",
+      "collection": "产品经理",
+      "topic": "数据与指标",
+      "term": "CTR",
+      "meaning": "Click Through Rate，点击率 = 点击量/曝光量",
+      "source_file": "产品经理黑话.md",
+      "source_line": 132
+    },
+    {
+      "id": "term-9da588bede48",
+      "collection": "产品经理",
+      "topic": "数据与指标",
+      "term": "产品转化率（CVR）",
+      "meaning": "Conversion Rate，完成目标动作的用户数/进入该环节的用户数；需明确目标动作和分母口径",
+      "source_file": "产品经理黑话.md",
+      "source_line": 133
+    },
+    {
+      "id": "term-df78f99c54af",
+      "collection": "产品经理",
+      "topic": "数据与指标",
+      "term": "注册转化率 / 激活率",
+      "meaning": "完成注册的用户数/访问用户数；完成首次关键行为的用户数/注册用户数",
+      "source_file": "产品经理黑话.md",
+      "source_line": 134
+    },
+    {
+      "id": "term-58e564688596",
+      "collection": "产品经理",
+      "topic": "数据与指标",
+      "term": "付费转化率",
+      "meaning": "完成付费的用户数/进入付费链路的用户数；需注明统计周期和分母",
+      "source_file": "产品经理黑话.md",
+      "source_line": 135
+    },
+    {
+      "id": "term-444c6d900d23",
+      "collection": "产品经理",
+      "topic": "数据与指标",
+      "term": "GMV",
+      "meaning": "Gross Merchandise Volume，商品成交总额。注意不等于收入（含未付款/退款），懂的人都懂",
+      "source_file": "产品经理黑话.md",
+      "source_line": 136
+    },
+    {
+      "id": "term-fb404dee1afe",
+      "collection": "产品经理",
+      "topic": "数据与指标",
+      "term": "ARPU / ARPPU",
+      "meaning": "每用户平均收入 / 每付费用户平均收入",
+      "source_file": "产品经理黑话.md",
+      "source_line": 137
+    },
+    {
+      "id": "term-0790620b6cf7",
+      "collection": "产品经理",
+      "topic": "数据与指标",
+      "term": "SKU",
+      "meaning": "Stock Keeping Unit，库存量单位，最小售卖单元（\"红色XL码\"）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 138
+    },
+    {
+      "id": "term-4f634fe17ff4",
+      "collection": "产品经理",
+      "topic": "数据与指标",
+      "term": "SPU",
+      "meaning": "Standard Product Unit，标准化产品单元（\"某品牌卫衣\"）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 139
+    },
+    {
+      "id": "term-a0a57c9a2d5a",
+      "collection": "产品经理",
+      "topic": "数据与指标",
+      "term": "CAC",
+      "meaning": "Customer Acquisition Cost，获客成本",
+      "source_file": "产品经理黑话.md",
+      "source_line": 140
+    },
+    {
+      "id": "term-8cf60e530e7c",
+      "collection": "产品经理",
+      "topic": "数据与指标",
+      "term": "CPI",
+      "meaning": "Cost Per Install，单次安装成本 = 广告或推广费用/归因安装次数；常用于衡量移动应用获客成本",
+      "source_file": "产品经理黑话.md",
+      "source_line": 141
+    },
+    {
+      "id": "term-c48046543bf9",
+      "collection": "产品经理",
+      "topic": "数据与指标",
+      "term": "LTV",
+      "meaning": "Lifetime Value，用户整个生命周期贡献的价值。LTV/CAC > 3 才能赚钱",
+      "source_file": "产品经理黑话.md",
+      "source_line": 142
+    },
+    {
+      "id": "term-9be78c95e83b",
+      "collection": "产品经理",
+      "topic": "数据与指标",
+      "term": "ROI",
+      "meaning": "Return on Investment，投资回报率",
+      "source_file": "产品经理黑话.md",
+      "source_line": 143
+    },
+    {
+      "id": "term-be09292d1a6e",
+      "collection": "产品经理",
+      "topic": "数据与指标",
+      "term": "ROAS",
+      "meaning": "Return on Ad Spend，广告支出回报率",
+      "source_file": "产品经理黑话.md",
+      "source_line": 144
+    },
+    {
+      "id": "term-f82eade847ca",
+      "collection": "产品经理",
+      "topic": "数据与指标",
+      "term": "NPS",
+      "meaning": "Net Promoter Score，净推荐值：用户愿不愿意推荐给朋友，0-10 分打分",
+      "source_file": "产品经理黑话.md",
+      "source_line": 145
+    },
+    {
+      "id": "term-afcd630a09ac",
+      "collection": "产品经理",
+      "topic": "数据与指标",
+      "term": "用户平均会话时长",
+      "meaning": "Average Session Duration，统计周期内用户每次会话时长的平均值；用于观察单次使用深度，需明确会话开始、结束和超时口径",
+      "source_file": "产品经理黑话.md",
+      "source_line": 146
+    },
+    {
+      "id": "term-bd6401d81f8b",
+      "collection": "产品经理",
+      "topic": "数据与指标",
+      "term": "留存率",
+      "meaning": "用户用完后还回不回来。次日留存、7日留存、30日留存是产品健康度核心指标",
+      "source_file": "产品经理黑话.md",
+      "source_line": 147
+    },
+    {
+      "id": "term-33d00246984c",
+      "collection": "产品经理",
+      "topic": "数据与指标",
+      "term": "次日留存率",
+      "meaning": "Day 1 Retention Rate，首日新增用户中第二天仍返回并完成指定行为的用户比例；需明确新增日、回访日和行为口径",
+      "source_file": "产品经理黑话.md",
+      "source_line": 148
+    },
+    {
+      "id": "term-27af966722b1",
+      "collection": "产品经理",
+      "topic": "数据与指标",
+      "term": "流失率 / 召回",
+      "meaning": "用户离开的比例 / 用推送、短信等手段把流失用户拉回来",
+      "source_file": "产品经理黑话.md",
+      "source_line": 149
+    },
+    {
+      "id": "term-eb6f76c45aee",
+      "collection": "产品经理",
+      "topic": "数据与指标",
+      "term": "北极星指标",
+      "meaning": "North Star Metric，唯一的最核心指标，衡量产品价值的\"指挥棒\"",
+      "source_file": "产品经理黑话.md",
+      "source_line": 150
+    },
+    {
+      "id": "term-5fcc1140de66",
+      "collection": "产品经理",
+      "topic": "数据与指标",
+      "term": "虚荣指标",
+      "meaning": "好看但没有指导意义的指标（如总注册数），做汇报用来撑场面",
+      "source_file": "产品经理黑话.md",
+      "source_line": 151
+    },
+    {
+      "id": "term-c7ecc28c8185",
+      "collection": "产品经理",
+      "topic": "数据与指标",
+      "term": "AARRR 模型",
+      "meaning": "用户生命周期模型：获取→激活→留存→收入→传播",
+      "source_file": "产品经理黑话.md",
+      "source_line": 152
+    },
+    {
+      "id": "term-eb9e6ca6122d",
+      "collection": "产品经理",
+      "topic": "数据与指标",
+      "term": "漏斗",
+      "meaning": "从起点到终点逐级递减的转化过程（注册漏斗、下单漏斗）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 153
+    },
+    {
+      "id": "term-0eec091a938d",
+      "collection": "产品经理",
+      "topic": "数据与指标",
+      "term": "A/B 测试",
+      "meaning": "给不同用户看不同版本，用数据决定哪个好",
+      "source_file": "产品经理黑话.md",
+      "source_line": 154
+    },
+    {
+      "id": "term-761101b7e041",
+      "collection": "产品经理",
+      "topic": "数据与指标",
+      "term": "归因分析",
+      "meaning": "用户成交后追溯是谁带来了这个用户（哪个渠道/哪次活动）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 155
+    },
+    {
+      "id": "term-9fd7b800d3da",
+      "collection": "产品经理",
+      "topic": "数据与指标",
+      "term": "千人千面",
+      "meaning": "给每个用户个性化推荐不同内容",
+      "source_file": "产品经理黑话.md",
+      "source_line": 156
+    },
+    {
+      "id": "term-26f24314d1a8",
+      "collection": "产品经理",
+      "topic": "数据与指标",
+      "term": "探索与利用",
+      "meaning": "推荐系统难题：多尝试新内容（探索）还是多推用户爱看的（利用）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 157
+    },
+    {
+      "id": "term-9cd2e3d31212",
+      "collection": "产品经理",
+      "topic": "数据与指标",
+      "term": "羊毛党",
+      "meaning": "专门薅补贴、优惠的群体，活动风控重点关注对象",
+      "source_file": "产品经理黑话.md",
+      "source_line": 158
+    },
+    {
+      "id": "term-94dbab826433",
+      "collection": "产品经理",
+      "topic": "内容与增长",
+      "term": "UGC",
+      "meaning": "User-Generated Content，用户生成内容；用户在平台发布的文字、图片、视频、评价等内容",
+      "source_file": "产品经理黑话.md",
+      "source_line": 164
+    },
+    {
+      "id": "term-83493f2c71b5",
+      "collection": "产品经理",
+      "topic": "内容与增长",
+      "term": "UCC",
+      "meaning": "User-Created Content，用户创作内容；与 UGC 含义接近，强调用户主动创作和贡献内容",
+      "source_file": "产品经理黑话.md",
+      "source_line": 165
+    },
+    {
+      "id": "term-480a549764db",
+      "collection": "产品经理",
+      "topic": "广告与商业化",
+      "term": "贴片广告",
+      "meaning": "以视频贴片形式出现在视频内容前、后或播放节点的广告，常见类型包括前贴片、后贴片和中贴片",
+      "source_file": "产品经理黑话.md",
+      "source_line": 171
+    },
+    {
+      "id": "term-e4d366e8a746",
+      "collection": "产品经理",
+      "topic": "广告与商业化",
+      "term": "信息流广告",
+      "meaning": "混排在内容列表或推荐流中的广告，通常采用与原生内容相近的展示形式，并标注广告或推广信息",
+      "source_file": "产品经理黑话.md",
+      "source_line": 172
+    },
+    {
+      "id": "term-556c14c0d5e9",
+      "collection": "产品经理",
+      "topic": "广告与商业化",
+      "term": "Banner 广告",
+      "meaning": "以横幅或矩形图片、动图等形式展示在页面固定位置的广告，常见于页面顶部、底部或侧边",
+      "source_file": "产品经理黑话.md",
+      "source_line": 173
+    },
+    {
+      "id": "term-811c7f75fc45",
+      "collection": "产品经理",
+      "topic": "广告与商业化",
+      "term": "中插广告",
+      "meaning": "在视频、音频或长篇内容播放或阅读过程中插入的广告，也称中贴片或 Mid-roll 广告",
+      "source_file": "产品经理黑话.md",
+      "source_line": 174
+    },
+    {
+      "id": "term-f420530f774a",
+      "collection": "产品经理",
+      "topic": "AI 产品与工程",
+      "term": "LLM",
+      "meaning": "Large Language Model，大语言模型；通过大规模数据训练、按上下文生成和理解内容的模型，具体能力取决于模型版本、上下文和调用方式",
+      "source_file": "产品经理黑话.md",
+      "source_line": 182
+    },
+    {
+      "id": "term-199c9eb483a3",
+      "collection": "产品经理",
+      "topic": "AI 产品与工程",
+      "term": "SDK",
+      "meaning": "Software Development Kit，软件开发工具包；为特定平台、系统或服务提供的开发库、工具和示例，帮助开发者接入其能力",
+      "source_file": "产品经理黑话.md",
+      "source_line": 183
+    },
+    {
+      "id": "term-b9d49d05b138",
+      "collection": "产品经理",
+      "topic": "AI 产品与工程",
+      "term": "API",
+      "meaning": "Application Programming Interface，应用程序编程接口；产品通过约定的请求、响应和错误码调用模型或其他服务",
+      "source_file": "产品经理黑话.md",
+      "source_line": 184
+    },
+    {
+      "id": "term-98a3332c46d6",
+      "collection": "产品经理",
+      "topic": "AI 产品与工程",
+      "term": "Prompt / 提示词工程",
+      "meaning": "Prompt 是提供给模型的指令、上下文和输入；提示词工程是设计、测试和迭代这些内容以稳定完成任务的方法",
+      "source_file": "产品经理黑话.md",
+      "source_line": 185
+    },
+    {
+      "id": "term-c64c1b9da164",
+      "collection": "产品经理",
+      "topic": "AI 产品与工程",
+      "term": "Token",
+      "meaning": "模型处理文本的基本计量单位，不等同于汉字或单词；输入和输出 token 通常影响上下文上限与调用成本",
+      "source_file": "产品经理黑话.md",
+      "source_line": 186
+    },
+    {
+      "id": "term-661e543094ea",
+      "collection": "产品经理",
+      "topic": "AI 产品与工程",
+      "term": "上下文窗口",
+      "meaning": "一次请求可供模型处理的 token 总量上限；超出后需要截断、压缩或分段，不等于模型的长期记忆",
+      "source_file": "产品经理黑话.md",
+      "source_line": 187
+    },
+    {
+      "id": "term-035ce0ef2cd9",
+      "collection": "产品经理",
+      "topic": "AI 产品与工程",
+      "term": "RAG",
+      "meaning": "Retrieval-Augmented Generation，检索增强生成；先从外部知识源检索相关内容，再将其作为上下文生成答案，重点解决知识时效与可追溯性",
+      "source_file": "产品经理黑话.md",
+      "source_line": 188
+    },
+    {
+      "id": "term-3161413140eb",
+      "collection": "产品经理",
+      "topic": "AI 产品与工程",
+      "term": "Embedding",
+      "meaning": "将文本、图片等对象映射成向量的表示方法，常用于相似度检索和聚类；向量相近不代表事实一定正确",
+      "source_file": "产品经理黑话.md",
+      "source_line": 189
+    },
+    {
+      "id": "term-8294a026cadb",
+      "collection": "产品经理",
+      "topic": "AI 产品与工程",
+      "term": "Agent / 智能体",
+      "meaning": "以目标为导向，能够根据状态进行多步决策并调用工具或执行动作的系统；普通单轮聊天不一定是 Agent",
+      "source_file": "产品经理黑话.md",
+      "source_line": 190
+    },
+    {
+      "id": "term-d9d2f2798825",
+      "collection": "产品经理",
+      "topic": "AI 产品与工程",
+      "term": "工具调用 / Function Calling",
+      "meaning": "模型输出结构化的工具调用意图，由应用执行工具并把结果回传给模型；模型通常不直接执行工具",
+      "source_file": "产品经理黑话.md",
+      "source_line": 191
+    },
+    {
+      "id": "term-8f7795dda8ed",
+      "collection": "产品经理",
+      "topic": "AI 产品与工程",
+      "term": "多模态",
+      "meaning": "同时处理文本、图片、音频或视频等多种信息模态的能力",
+      "source_file": "产品经理黑话.md",
+      "source_line": 192
+    },
+    {
+      "id": "term-2c0c662df1c9",
+      "collection": "产品经理",
+      "topic": "AI 产品与工程",
+      "term": "LBS",
+      "meaning": "Location-Based Service，基于位置的服务；根据用户或设备的地理位置提供附近搜索、围栏提醒等功能",
+      "source_file": "产品经理黑话.md",
+      "source_line": 193
+    },
+    {
+      "id": "term-2e1a9ebc5f41",
+      "collection": "产品经理",
+      "topic": "AI 产品与工程",
+      "term": "IoT",
+      "meaning": "Internet of Things，物联网；通过网络连接设备，采集环境数据并执行远程监测或控制",
+      "source_file": "产品经理黑话.md",
+      "source_line": 194
+    },
+    {
+      "id": "term-c981f60a5a64",
+      "collection": "产品经理",
+      "topic": "AI 产品与工程",
+      "term": "OTA",
+      "meaning": "Over-The-Air，空中下载技术；通过网络远程更新设备固件、软件或配置；旅游行业也指 Online Travel Agency，在线旅行社",
+      "source_file": "产品经理黑话.md",
+      "source_line": 195
+    },
+    {
+      "id": "term-09ac23c436bc",
+      "collection": "产品经理",
+      "topic": "AI 产品与工程",
+      "term": "幻觉",
+      "meaning": "模型生成与事实、输入或检索内容不符但表述流畅的内容；需要通过数据、约束、评测和人工复核降低",
+      "source_file": "产品经理黑话.md",
+      "source_line": 196
+    },
+    {
+      "id": "term-79fbbb16a098",
+      "collection": "产品经理",
+      "topic": "AI 产品与工程",
+      "term": "评测 / Eval / Benchmark",
+      "meaning": "按预设任务、数据和标准测量模型或 AI 功能质量的过程；评测分数本身不等于业务价值",
+      "source_file": "产品经理黑话.md",
+      "source_line": 197
+    },
+    {
+      "id": "term-eaecbf35197e",
+      "collection": "产品经理",
+      "topic": "AI 产品与工程",
+      "term": "badcase",
+      "meaning": "典型失败样本，用于定位错误模式、补充评测集和推动迭代",
+      "source_file": "产品经理黑话.md",
+      "source_line": 198
+    },
+    {
+      "id": "term-0c7be5b8f989",
+      "collection": "产品经理",
+      "topic": "AI 产品与工程",
+      "term": "微调 / Fine-tuning",
+      "meaning": "在已有模型上使用特定数据继续训练，使其适应特定任务或行为；与 Prompt 调整、RAG 的作用和成本不同",
+      "source_file": "产品经理黑话.md",
+      "source_line": 199
+    },
+    {
+      "id": "term-34eb868959df",
+      "collection": "产品经理",
+      "topic": "AI 产品与工程",
+      "term": "Guardrail / 护栏",
+      "meaning": "对输入、输出、工具权限、流程或成本设置的约束与拦截机制，用于降低越权、滥用和失控风险",
+      "source_file": "产品经理黑话.md",
+      "source_line": 200
+    },
+    {
+      "id": "term-972fb26083e4",
+      "collection": "产品经理",
+      "topic": "AI 产品与工程",
+      "term": "HITL / Human-in-the-Loop",
+      "meaning": "Human-in-the-Loop，人在回路；由人进行确认、修改、接管或抽检，控制 AI 的高风险决策和动作",
+      "source_file": "产品经理黑话.md",
+      "source_line": 201
+    },
+    {
+      "id": "term-5ed57d79c399",
+      "collection": "产品经理",
+      "topic": "AI 产品与工程",
+      "term": "MCP",
+      "meaning": "Model Context Protocol，模型上下文协议；约定模型应用如何发现并调用外部工具与数据资源",
+      "source_file": "产品经理黑话.md",
+      "source_line": 202
+    },
+    {
+      "id": "term-95e521e574f2",
+      "collection": "产品经理",
+      "topic": "AI 产品与工程",
+      "term": "SLA",
+      "meaning": "Service Level Agreement，服务等级协议；对外约定可用性、响应时间、延迟、支持时限及违约处理等服务承诺，不等于内部目标",
+      "source_file": "产品经理黑话.md",
+      "source_line": 203
+    },
+    {
+      "id": "term-85dd7cecbc70",
+      "collection": "产品经理",
+      "topic": "AI 产品与工程",
+      "term": "SLO",
+      "meaning": "Service Level Objective，服务等级目标；团队为可用性、延迟、成功率等设定的内部目标，通常用于运营和容量管理",
+      "source_file": "产品经理黑话.md",
+      "source_line": 204
+    },
+    {
+      "id": "term-7d57b6a0d982",
+      "collection": "产品经理",
+      "topic": "AI 产品与工程",
+      "term": "SLI",
+      "meaning": "Service Level Indicator，服务等级指标；从真实请求中测量可用性、延迟或成功率等表现，是判断 SLO 是否达成的依据",
+      "source_file": "产品经理黑话.md",
+      "source_line": 205
+    },
+    {
+      "id": "term-d305a273cded",
+      "collection": "产品经理",
+      "topic": "AI 产品与工程",
+      "term": "延迟 / Latency",
+      "meaning": "请求发出到结果返回的耗时；AI 产品常分别关注首个 token 延迟和完整响应延迟，必须明确测量口径",
+      "source_file": "产品经理黑话.md",
+      "source_line": 206
+    },
+    {
+      "id": "term-161fb7313c77",
+      "collection": "产品经理",
+      "topic": "AI 产品与工程",
+      "term": "P95/P99",
+      "meaning": "延迟或其他指标的第 95/99 百分位值，用于观察长尾体验；平均值较好不代表 P95/P99 一定达标",
+      "source_file": "产品经理黑话.md",
+      "source_line": 207
+    },
+    {
+      "id": "term-e0a9cdde3bbf",
+      "collection": "产品经理",
+      "topic": "AI 产品与工程",
+      "term": "限流",
+      "meaning": "限制单位时间内的请求数或并发量，保护服务并公平分配资源；超限通常返回 429、排队或触发降级",
+      "source_file": "产品经理黑话.md",
+      "source_line": 208
+    },
+    {
+      "id": "term-5072d409e2fc",
+      "collection": "产品经理",
+      "topic": "AI 产品与工程",
+      "term": "配额 / Quota",
+      "meaning": "为账户、租户或应用设置的调用量、速率或预算上限；既是技术约束，也会影响套餐设计与成本控制",
+      "source_file": "产品经理黑话.md",
+      "source_line": 209
+    },
+    {
+      "id": "term-7b571f884646",
+      "collection": "产品经理",
+      "topic": "AI 产品与工程",
+      "term": "降级",
+      "meaning": "主方案不可用或成本、延迟超标时切换到能力较弱但仍可用的备用路径，如缓存、规则或人工处理",
+      "source_file": "产品经理黑话.md",
+      "source_line": 210
+    },
+    {
+      "id": "term-761f98134227",
+      "collection": "产品经理",
+      "topic": "AI 产品与工程",
+      "term": "熔断",
+      "meaning": "下游连续失败达到阈值时暂时停止调用，避免故障扩散；服务恢复后再逐步放量",
+      "source_file": "产品经理黑话.md",
+      "source_line": 211
+    },
+    {
+      "id": "term-ee1552c400f3",
+      "collection": "产品经理",
+      "topic": "AI 产品与工程",
+      "term": "重试 / 退避",
+      "meaning": "请求失败后再次尝试；退避通过逐步拉长间隔并限制次数，避免多方同时重试造成故障放大",
+      "source_file": "产品经理黑话.md",
+      "source_line": 212
+    },
+    {
+      "id": "term-9611f0460b62",
+      "collection": "产品经理",
+      "topic": "AI 产品与工程",
+      "term": "幂等",
+      "meaning": "同一请求执行一次或多次，结果保持一致；支付、写入和 Webhook 等重试场景需要明确的幂等机制",
+      "source_file": "产品经理黑话.md",
+      "source_line": 213
+    },
+    {
+      "id": "term-a95863a1303c",
+      "collection": "产品经理",
+      "topic": "AI 产品与工程",
+      "term": "可观测性 / Observability",
+      "meaning": "通过日志、指标和 Trace 等信号判断系统状态、定位问题和追溯请求链路，不只是保存日志",
+      "source_file": "产品经理黑话.md",
+      "source_line": 214
+    },
+    {
+      "id": "term-c88a4778157c",
+      "collection": "产品经理",
+      "topic": "AI 产品与工程",
+      "term": "DRI",
+      "meaning": "Directly Responsible Individual，直接负责人；为事项指定主要决策和推进人，协作方仍需参与",
+      "source_file": "产品经理黑话.md",
+      "source_line": 215
+    },
+    {
+      "id": "term-5c2db89931f0",
+      "collection": "产品经理",
+      "topic": "AI 产品与工程",
+      "term": "P0/P1/P2/P3",
+      "meaning": "事故严重度分级，具体定义因团队而异，通常 P0 最高；每级应对应影响范围、响应时限、责任人和升级路径",
+      "source_file": "产品经理黑话.md",
+      "source_line": 216
+    },
+    {
+      "id": "term-24341d7f48ea",
+      "collection": "产品经理",
+      "topic": "前端与渲染",
+      "term": "SSG",
+      "meaning": "Static Site Generation，静态站点生成；在构建时预先生成 HTML，适合文档、博客和内容更新不频繁的页面，通常由 CDN 分发",
+      "source_file": "产品经理黑话.md",
+      "source_line": 224
+    },
+    {
+      "id": "term-15832dea96dd",
+      "collection": "产品经理",
+      "topic": "前端与渲染",
+      "term": "SSR",
+      "meaning": "Server-Side Rendering，服务端渲染；在请求时由服务端根据 URL、身份和数据生成 HTML，适合需要 SEO、个性化或较新数据的页面",
+      "source_file": "产品经理黑话.md",
+      "source_line": 225
+    },
+    {
+      "id": "term-6cc03ad13d71",
+      "collection": "产品经理",
+      "topic": "前端与渲染",
+      "term": "CSR",
+      "meaning": "Client-Side Rendering，客户端渲染；浏览器加载 JavaScript、请求数据后生成主要页面内容，常用于后台、编辑器和复杂工作台",
+      "source_file": "产品经理黑话.md",
+      "source_line": 226
+    },
+    {
+      "id": "term-c58d8b7dc747",
+      "collection": "产品经理",
+      "topic": "前端与渲染",
+      "term": "SPA",
+      "meaning": "Single-Page Application，单页应用；首次加载一个页面文档，后续路由切换由 JavaScript 完成，不等同于某一种渲染方式",
+      "source_file": "产品经理黑话.md",
+      "source_line": 227
+    },
+    {
+      "id": "term-bc57b4c8a26c",
+      "collection": "产品经理",
+      "topic": "前端与渲染",
+      "term": "ISR",
+      "meaning": "Incremental Static Regeneration，增量静态再生成（Next.js 用语）；保留静态分发效率，并按时间、请求或事件重新生成部分页面",
+      "source_file": "产品经理黑话.md",
+      "source_line": 228
+    },
+    {
+      "id": "term-598b26148512",
+      "collection": "产品经理",
+      "topic": "前端与渲染",
+      "term": "Hydration（水合）",
+      "meaning": "浏览器为服务端或构建时生成的 HTML 绑定事件和状态，使静态内容变成可交互页面",
+      "source_file": "产品经理黑话.md",
+      "source_line": 229
+    },
+    {
+      "id": "term-ab258ce6aa35",
+      "collection": "产品经理",
+      "topic": "算力与推理",
+      "term": "GPU / CPU",
+      "meaning": "Graphics Processing Unit / Central Processing Unit，图形处理器 / 中央处理器；AI 训练和推理通常更依赖 GPU 的并行计算能力，业务逻辑与调度仍常由 CPU 承担",
+      "source_file": "产品经理黑话.md",
+      "source_line": 235
+    },
+    {
+      "id": "term-56dea916c0fb",
+      "collection": "产品经理",
+      "topic": "算力与推理",
+      "term": "算力 / Compute",
+      "meaning": "执行模型训练或推理所需的计算资源；实际可用能力不只由理论峰值决定，还受显存、带宽、并发和软件栈影响",
+      "source_file": "产品经理黑话.md",
+      "source_line": 236
+    },
+    {
+      "id": "term-cea38030d756",
+      "collection": "产品经理",
+      "topic": "算力与推理",
+      "term": "显存 / VRAM",
+      "meaning": "Video Random Access Memory，GPU 用来存放模型权重、KV Cache 和中间数据的内存；显存不足时模型可能无法加载或并发量下降",
+      "source_file": "产品经理黑话.md",
+      "source_line": 237
+    },
+    {
+      "id": "term-aea9ccf6e65d",
+      "collection": "产品经理",
+      "topic": "算力与推理",
+      "term": "显存带宽 / Memory Bandwidth",
+      "meaning": "GPU 在单位时间内读写显存的能力；Decode 阶段常受显存带宽限制，不等同于 GPU 的理论算力",
+      "source_file": "产品经理黑话.md",
+      "source_line": 238
+    },
+    {
+      "id": "term-a0b7cade5e5c",
+      "collection": "产品经理",
+      "topic": "算力与推理",
+      "term": "FLOPS / TFLOPS",
+      "meaning": "Floating-point Operations Per Second / Trillion FLOPS，每秒浮点运算次数 / 万亿次浮点运算次数；属于理论峰值，不等于真实模型吞吐",
+      "source_file": "产品经理黑话.md",
+      "source_line": 239
+    },
+    {
+      "id": "term-72c69452c16e",
+      "collection": "产品经理",
+      "topic": "算力与推理",
+      "term": "GPU 利用率",
+      "meaning": "GPU 计算单元处于工作的时间占比；利用率高不一定代表成本效率高，显存或带宽瓶颈也可能让服务变慢",
+      "source_file": "产品经理黑话.md",
+      "source_line": 240
+    },
+    {
+      "id": "term-ef9a75fae860",
+      "collection": "产品经理",
+      "topic": "算力与推理",
+      "term": "吞吐 / Throughput",
+      "meaning": "单位时间完成的请求数、token 数或任务量；需要和延迟、并发一起看，吞吐提高可能伴随单请求等待变长",
+      "source_file": "产品经理黑话.md",
+      "source_line": 241
+    },
+    {
+      "id": "term-56a463bf2963",
+      "collection": "产品经理",
+      "topic": "算力与推理",
+      "term": "并发 / Concurrency",
+      "meaning": "同时处于处理中的请求或任务数量，不等于一段时间内的总流量；长上下文和 KV Cache 会显著影响并发上限",
+      "source_file": "产品经理黑话.md",
+      "source_line": 242
+    },
+    {
+      "id": "term-429cbeaf0113",
+      "collection": "产品经理",
+      "topic": "算力与推理",
+      "term": "QPS / RPS",
+      "meaning": "Queries Per Second / Requests Per Second，每秒查询数 / 请求数；用于描述服务请求速率，具体统计范围要写清楚",
+      "source_file": "产品经理黑话.md",
+      "source_line": 243
+    },
+    {
+      "id": "term-cb50004c1dd2",
+      "collection": "产品经理",
+      "topic": "算力与推理",
+      "term": "RPM / TPM",
+      "meaning": "Requests Per Minute / Tokens Per Minute，每分钟请求数 / token 数；常见于模型供应商的速率配额，不等同于服务的实际吞吐",
+      "source_file": "产品经理黑话.md",
+      "source_line": 244
+    },
+    {
+      "id": "term-a06fd2e78ce8",
+      "collection": "产品经理",
+      "topic": "算力与推理",
+      "term": "TPS",
+      "meaning": "Tokens Per Second，每秒生成的 token 数；通用系统性能语境中也可能指 Transactions Per Second，每秒事务数，使用时要注明口径",
+      "source_file": "产品经理黑话.md",
+      "source_line": 245
+    },
+    {
+      "id": "term-8cab7b1cef34",
+      "collection": "产品经理",
+      "topic": "算力与推理",
+      "term": "TTFT",
+      "meaning": "Time To First Token，首 token 延迟；从请求发出到用户看到第一个 token 的时间，主要受排队和 Prefill 影响",
+      "source_file": "产品经理黑话.md",
+      "source_line": 246
+    },
+    {
+      "id": "term-a5116cd651c7",
+      "collection": "产品经理",
+      "topic": "算力与推理",
+      "term": "TPOT",
+      "meaning": "Time Per Output Token，平均生成一个输出 token 所需的时间；主要反映 Decode 阶段的持续生成速度",
+      "source_file": "产品经理黑话.md",
+      "source_line": 247
+    },
+    {
+      "id": "term-0de77c1af117",
+      "collection": "产品经理",
+      "topic": "算力与推理",
+      "term": "KV Cache",
+      "meaning": "Key-Value Cache，注意力机制缓存的历史 Key / Value；可以减少重复计算，但会随上下文长度和并发增长而占用显存",
+      "source_file": "产品经理黑话.md",
+      "source_line": 248
+    },
+    {
+      "id": "term-156ba240d16d",
+      "collection": "产品经理",
+      "topic": "算力与推理",
+      "term": "Prefill / Decode",
+      "meaning": "Prefill 并行处理输入并建立 KV Cache；Decode 根据已有上下文逐 token 生成输出，二者的瓶颈和优化方式不同",
+      "source_file": "产品经理黑话.md",
+      "source_line": 249
+    },
+    {
+      "id": "term-9c4461c88cf3",
+      "collection": "产品经理",
+      "topic": "算力与推理",
+      "term": "批处理 / Batch",
+      "meaning": "将多个请求合并后共同计算，以提高 GPU 利用率和吞吐；批次等待和大小会影响单请求延迟",
+      "source_file": "产品经理黑话.md",
+      "source_line": 250
+    },
+    {
+      "id": "term-01b4ffcb3616",
+      "collection": "产品经理",
+      "topic": "算力与推理",
+      "term": "连续批处理 / Continuous Batching",
+      "meaning": "按 token 生成进度动态加入和移出请求的调度方式，减少等待空槽，通常比静态批处理有更高吞吐",
+      "source_file": "产品经理黑话.md",
+      "source_line": 251
+    },
+    {
+      "id": "term-e74c3b5247bd",
+      "collection": "产品经理",
+      "topic": "算力与推理",
+      "term": "量化 / Quantization",
+      "meaning": "用更低精度表示模型权重或 KV Cache，以降低显存占用；速度和效果变化取决于硬件、模型与任务，需要实测",
+      "source_file": "产品经理黑话.md",
+      "source_line": 252
+    },
+    {
+      "id": "term-7ede2e236c32",
+      "collection": "产品经理",
+      "topic": "算力与推理",
+      "term": "蒸馏 / Distillation",
+      "meaning": "用大模型或教师模型的输出指导较小的学生模型，使其在更低成本下保留部分能力",
+      "source_file": "产品经理黑话.md",
+      "source_line": 253
+    },
+    {
+      "id": "term-9dd906a03375",
+      "collection": "产品经理",
+      "topic": "算力与推理",
+      "term": "推理 / Inference",
+      "meaning": "使用已经训练好的模型处理输入并生成输出的过程；推理成本、延迟、吞吐和稳定性直接影响线上产品",
+      "source_file": "产品经理黑话.md",
+      "source_line": 254
+    },
+    {
+      "id": "term-7fa9da87fb57",
+      "collection": "产品经理",
+      "topic": "算力与推理",
+      "term": "GPU 时 / GPU Hour",
+      "meaning": "一张 GPU 被占用一小时的资源计量单位，常用于训练、托管和推理平台的成本核算；实际价格还受 GPU 型号和利用率影响",
+      "source_file": "产品经理黑话.md",
+      "source_line": 255
+    },
+    {
+      "id": "term-7c356140efa8",
+      "collection": "产品经理",
+      "topic": "用户与运营",
+      "term": "目标用户",
+      "meaning": "产品预设要服务的用户群体，通常按需求、场景和特征界定",
+      "source_file": "产品经理黑话.md",
+      "source_line": 261
+    },
+    {
+      "id": "term-c658bcdca4df",
+      "collection": "产品经理",
+      "topic": "用户与运营",
+      "term": "种子用户",
+      "meaning": "早期参与产品试用、反馈和传播的用户，用于冷启动和需求验证",
+      "source_file": "产品经理黑话.md",
+      "source_line": 262
+    },
+    {
+      "id": "term-351a696a2ae6",
+      "collection": "产品经理",
+      "topic": "用户与运营",
+      "term": "核心用户",
+      "meaning": "高频使用、贡献主要价值或对产品有较高依赖的用户",
+      "source_file": "产品经理黑话.md",
+      "source_line": 263
+    },
+    {
+      "id": "term-6a49570c93b2",
+      "collection": "产品经理",
+      "topic": "用户与运营",
+      "term": "活跃用户",
+      "meaning": "在指定周期内完成约定行为的用户；具体行为由产品定义",
+      "source_file": "产品经理黑话.md",
+      "source_line": 264
+    },
+    {
+      "id": "term-44ac398e3b16",
+      "collection": "产品经理",
+      "topic": "用户与运营",
+      "term": "沉默用户",
+      "meaning": "曾经使用产品但在指定周期内未完成活跃行为的用户",
+      "source_file": "产品经理黑话.md",
+      "source_line": 265
+    },
+    {
+      "id": "term-854cb233d129",
+      "collection": "产品经理",
+      "topic": "用户与运营",
+      "term": "流失用户",
+      "meaning": "按预设规则判断已停止使用或长期未活跃的用户",
+      "source_file": "产品经理黑话.md",
+      "source_line": 266
+    },
+    {
+      "id": "term-d8a0efd6fa51",
+      "collection": "产品经理",
+      "topic": "用户与运营",
+      "term": "用户分层",
+      "meaning": "按价值、行为、需求或生命周期把用户划分为不同群组",
+      "source_file": "产品经理黑话.md",
+      "source_line": 267
+    },
+    {
+      "id": "term-bc58b2a90e13",
+      "collection": "产品经理",
+      "topic": "用户与运营",
+      "term": "拉新/促活/留存/转化",
+      "meaning": "用户运营四件套：拉来新用户、让他们活跃、别让他们走、让他们付费",
+      "source_file": "产品经理黑话.md",
+      "source_line": 268
+    },
+    {
+      "id": "term-efbb5a7374ae",
+      "collection": "产品经理",
+      "topic": "用户与运营",
+      "term": "触达",
+      "meaning": "通过一个或多个渠道向目标用户传递消息、权益或服务；需匹配用户状态、场景和频次",
+      "source_file": "产品经理黑话.md",
+      "source_line": 269
+    },
+    {
+      "id": "term-84e0ed27b030",
+      "collection": "产品经理",
+      "topic": "用户与运营",
+      "term": "触达渠道",
+      "meaning": "连接用户的媒介或入口，如 App、短信、电话、邮件、公众号、企微和线下门店",
+      "source_file": "产品经理黑话.md",
+      "source_line": 270
+    },
+    {
+      "id": "term-86424aee1fdc",
+      "collection": "产品经理",
+      "topic": "用户与运营",
+      "term": "App Push / Push",
+      "meaning": "向移动 App 用户发送的系统通知或应用内推送",
+      "source_file": "产品经理黑话.md",
+      "source_line": 271
+    },
+    {
+      "id": "term-8b25b0f59b32",
+      "collection": "产品经理",
+      "topic": "用户与运营",
+      "term": "IVR",
+      "meaning": "Interactive Voice Response，交互式语音应答；通过语音提示和按键或语音输入完成自助服务",
+      "source_file": "产品经理黑话.md",
+      "source_line": 272
+    },
+    {
+      "id": "term-44923dfdb635",
+      "collection": "产品经理",
+      "topic": "用户与运营",
+      "term": "触达方式",
+      "meaning": "按消息发送机制区分为主动推送、被动响应、定时触达、事件触达和人工触达",
+      "source_file": "产品经理黑话.md",
+      "source_line": 273
+    },
+    {
+      "id": "term-6835bacc0f73",
+      "collection": "产品经理",
+      "topic": "用户与运营",
+      "term": "触达率",
+      "meaning": "实际收到或打开触达消息的用户数/目标触达用户数；需明确“收到”还是“打开”的口径",
+      "source_file": "产品经理黑话.md",
+      "source_line": 274
+    },
+    {
+      "id": "term-1a3d921d6eb7",
+      "collection": "产品经理",
+      "topic": "用户与运营",
+      "term": "私域流量",
+      "meaning": "企业可以反复、低成本直接触达并持续运营的用户流量（微信群、公众号、企微）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 275
+    },
+    {
+      "id": "term-6e232bee9f6f",
+      "collection": "产品经理",
+      "topic": "用户与运营",
+      "term": "公域流量",
+      "meaning": "依赖平台分发或购买、无法完全自主运营的用户流量（抖音推荐、淘宝搜索）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 276
+    },
+    {
+      "id": "term-5a48b99a3d86",
+      "collection": "产品经理",
+      "topic": "用户与运营",
+      "term": "流量池",
+      "meaning": "可反复利用的流量蓄水池（把公域引来的用户养在私域）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 277
+    },
+    {
+      "id": "term-d8bd6617a9d1",
+      "collection": "产品经理",
+      "topic": "用户与运营",
+      "term": "裂变",
+      "meaning": "老带新：用户拉人得奖励，实现指数传播",
+      "source_file": "产品经理黑话.md",
+      "source_line": 278
+    },
+    {
+      "id": "term-1fc552346af1",
+      "collection": "产品经理",
+      "topic": "用户与运营",
+      "term": "拼团/砍价",
+      "meaning": "裂变的经典玩法，拼多多发扬光大",
+      "source_file": "产品经理黑话.md",
+      "source_line": 279
+    },
+    {
+      "id": "term-452414b17d54",
+      "collection": "产品经理",
+      "topic": "用户与运营",
+      "term": "种草",
+      "meaning": "用内容激发购买欲望（“在用户心中种下一片草原”）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 280
+    },
+    {
+      "id": "term-f72fbfeb3c6d",
+      "collection": "产品经理",
+      "topic": "用户与运营",
+      "term": "拔草",
+      "meaning": "下单购买 / 看完发现不好用，欲望消失",
+      "source_file": "产品经理黑话.md",
+      "source_line": 281
+    },
+    {
+      "id": "term-6666ee39dc33",
+      "collection": "产品经理",
+      "topic": "用户与运营",
+      "term": "用户生命周期",
+      "meaning": "引入→成长→成熟→衰退→流失，不同阶段不同运营策略",
+      "source_file": "产品经理黑话.md",
+      "source_line": 282
+    },
+    {
+      "id": "term-7664b9e200e7",
+      "collection": "产品经理",
+      "topic": "用户标签与分类",
+      "term": "用户标签",
+      "meaning": "对用户基础信息、行为、偏好或场景进行结构化描述，用于用户分群、推荐、分析和触达",
+      "source_file": "产品经理黑话.md",
+      "source_line": 290
+    },
+    {
+      "id": "term-faae2de3c1c6",
+      "collection": "产品经理",
+      "topic": "用户标签与分类",
+      "term": "按用途分类",
+      "meaning": "基础信息、用户行为、业务偏好、场景标签",
+      "source_file": "产品经理黑话.md",
+      "source_line": 291
+    },
+    {
+      "id": "term-6536a43360f8",
+      "collection": "产品经理",
+      "topic": "用户标签与分类",
+      "term": "按统计方式分类",
+      "meaning": "事实类标签、规则类标签、预测类标签",
+      "source_file": "产品经理黑话.md",
+      "source_line": 292
+    },
+    {
+      "id": "term-bb02a432a10b",
+      "collection": "产品经理",
+      "topic": "用户标签与分类",
+      "term": "按时效分类",
+      "meaning": "静态标签、动态标签",
+      "source_file": "产品经理黑话.md",
+      "source_line": 293
+    },
+    {
+      "id": "term-dde4e4d644ca",
+      "collection": "产品经理",
+      "topic": "用户标签与分类",
+      "term": "RFM 模型",
+      "meaning": "按最近消费时间、消费频率、消费金额把用户分层",
+      "source_file": "产品经理黑话.md",
+      "source_line": 295
+    },
+    {
+      "id": "term-35355c4b64fe",
+      "collection": "产品经理",
+      "topic": "用户标签与分类",
+      "term": "会员体系",
+      "meaning": "用等级、积分、权益把用户绑定住",
+      "source_file": "产品经理黑话.md",
+      "source_line": 296
+    },
+    {
+      "id": "term-e17a629bf192",
+      "collection": "产品经理",
+      "topic": "用户标签与分类",
+      "term": "复购率 / 客单价",
+      "meaning": "用户再次购买的比例 / 平均每单金额，电商最看重的两个指标",
+      "source_file": "产品经理黑话.md",
+      "source_line": 297
+    },
+    {
+      "id": "term-e361dc5b50d9",
+      "collection": "产品经理",
+      "topic": "用户标签与分类",
+      "term": "人货场",
+      "meaning": "零售三要素：人（用户）、货（商品）、场（渠道场景）。\"重构人货场\"=换个卖法",
+      "source_file": "产品经理黑话.md",
+      "source_line": 298
+    },
+    {
+      "id": "term-715f1591b4a2",
+      "collection": "产品经理",
+      "topic": "用户标签与分类",
+      "term": "货找人",
+      "meaning": "推荐式卖货：算法把货推给用户（对比\"人找货\"=用户自己搜）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 299
+    },
+    {
+      "id": "term-60a5f9ff164c",
+      "collection": "产品经理",
+      "topic": "用户标签与分类",
+      "term": "品效合一",
+      "meaning": "既要品牌声量又要销售转化（老板的既要又要）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 300
+    },
+    {
+      "id": "term-9e4bdd19de30",
+      "collection": "产品经理",
+      "topic": "用户标签与分类",
+      "term": "全域营销",
+      "meaning": "线上线下、公域私域全渠道一起做营销",
+      "source_file": "产品经理黑话.md",
+      "source_line": 301
+    },
+    {
+      "id": "term-1d62fd9a1784",
+      "collection": "产品经理",
+      "topic": "用户标签与分类",
+      "term": "下沉市场",
+      "meaning": "三四五线城市及农村市场，\"五环外\"人群",
+      "source_file": "产品经理黑话.md",
+      "source_line": 302
+    },
+    {
+      "id": "term-8270bac4388e",
+      "collection": "产品经理",
+      "topic": "商业模式",
+      "term": "B2B",
+      "meaning": "Business to Business，企业或商家向企业或商家提供产品、服务或解决方案",
+      "source_file": "产品经理黑话.md",
+      "source_line": 308
+    },
+    {
+      "id": "term-7141f9d1b2fc",
+      "collection": "产品经理",
+      "topic": "商业模式",
+      "term": "B2C",
+      "meaning": "Business to Consumer，企业或商家直接向消费者提供产品或服务",
+      "source_file": "产品经理黑话.md",
+      "source_line": 309
+    },
+    {
+      "id": "term-09b231708053",
+      "collection": "产品经理",
+      "topic": "商业模式",
+      "term": "C2C",
+      "meaning": "Consumer to Consumer，消费者之间进行商品或服务交易",
+      "source_file": "产品经理黑话.md",
+      "source_line": 310
+    },
+    {
+      "id": "term-b3e2d6d57a31",
+      "collection": "产品经理",
+      "topic": "商业模式",
+      "term": "C2B",
+      "meaning": "Consumer to Business，消费者提出需求或提供资源，由企业响应和组织供给",
+      "source_file": "产品经理黑话.md",
+      "source_line": 311
+    },
+    {
+      "id": "term-ce970221f448",
+      "collection": "产品经理",
+      "topic": "商业模式",
+      "term": "O2O",
+      "meaning": "Online to Offline，线上获客、下单或交易，线下履约或消费",
+      "source_file": "产品经理黑话.md",
+      "source_line": 312
+    },
+    {
+      "id": "term-06775e555b68",
+      "collection": "产品经理",
+      "topic": "商业模式",
+      "term": "POP 模式",
+      "meaning": "Platform Open Plan，平台开放计划；平台向第三方商家、服务商或开发者开放商品、交易、流量或技术能力，并通过佣金、服务费或广告等方式变现",
+      "source_file": "产品经理黑话.md",
+      "source_line": 313
+    },
+    {
+      "id": "term-19fa2ac50244",
+      "collection": "产品经理",
+      "topic": "商业模式",
+      "term": "DTC",
+      "meaning": "Direct To Consumer，品牌直达消费者，不经过经销商",
+      "source_file": "产品经理黑话.md",
+      "source_line": 314
+    },
+    {
+      "id": "term-d6f1869c7204",
+      "collection": "产品经理",
+      "topic": "商业模式",
+      "term": "C2M",
+      "meaning": "Customer to Manufacturer，用户直连工厂，按需定制",
+      "source_file": "产品经理黑话.md",
+      "source_line": 315
+    },
+    {
+      "id": "term-59d10c75fbdd",
+      "collection": "产品经理",
+      "topic": "商业模式",
+      "term": "TAM/SAM/SOM",
+      "meaning": "总市场规模 / 可服务市场 / 实际能拿到的市场。写给投资人看的\"市场有多大\"",
+      "source_file": "产品经理黑话.md",
+      "source_line": 316
+    },
+    {
+      "id": "term-86eca67c4e26",
+      "collection": "产品经理",
+      "topic": "商业模式",
+      "term": "GTM",
+      "meaning": "Go-To-Market，产品推向市场的策略",
+      "source_file": "产品经理黑话.md",
+      "source_line": 317
+    },
+    {
+      "id": "term-3883ca55f630",
+      "collection": "产品经理",
+      "topic": "商业模式",
+      "term": "PLG",
+      "meaning": "Product-Led Growth，产品驱动增长：靠产品本身好用裂变，不靠销售",
+      "source_file": "产品经理黑话.md",
+      "source_line": 318
+    },
+    {
+      "id": "term-2d8d6f5271ee",
+      "collection": "产品经理",
+      "topic": "商业模式",
+      "term": "网络效应",
+      "meaning": "用的人越多产品越好用（微信、滴滴），护城河的最强形态",
+      "source_file": "产品经理黑话.md",
+      "source_line": 319
+    },
+    {
+      "id": "term-8e9684b2abf7",
+      "collection": "产品经理",
+      "topic": "商业模式",
+      "term": "飞轮效应",
+      "meaning": "各环节互相促进、越转越快的良性循环（亚马逊飞轮）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 320
+    },
+    {
+      "id": "term-4bc235e6e2e4",
+      "collection": "产品经理",
+      "topic": "商业模式",
+      "term": "双边市场",
+      "meaning": "平台连接两类用户，一边缺了另一边也不来（打车：司机和乘客）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 321
+    },
+    {
+      "id": "term-b66a1665447d",
+      "collection": "产品经理",
+      "topic": "项目管理与协作",
+      "term": "敏捷开发 / Scrum",
+      "meaning": "以迭代为单位的开发方式，主流互联网公司标配",
+      "source_file": "产品经理黑话.md",
+      "source_line": 327
+    },
+    {
+      "id": "term-603214d849cc",
+      "collection": "产品经理",
+      "topic": "项目管理与协作",
+      "term": "Sprint",
+      "meaning": "冲刺：一个开发周期，一般 1-2 周",
+      "source_file": "产品经理黑话.md",
+      "source_line": 328
+    },
+    {
+      "id": "term-86d7388eae1d",
+      "collection": "产品经理",
+      "topic": "项目管理与协作",
+      "term": "排期",
+      "meaning": "安排各需求的开发时间（\"你去跟开发排期\"=求开发接活）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 329
+    },
+    {
+      "id": "term-6d9051f6e937",
+      "collection": "产品经理",
+      "topic": "项目管理与协作",
+      "term": "卡点 / 阻塞",
+      "meaning": "项目卡住的问题点 / 被阻塞无法推进",
+      "source_file": "产品经理黑话.md",
+      "source_line": 330
+    },
+    {
+      "id": "term-184686ef942e",
+      "collection": "产品经理",
+      "topic": "项目管理与协作",
+      "term": "站会",
+      "meaning": "每日 15 分钟站立晨会：昨天干了啥、今天干啥、有什么阻碍",
+      "source_file": "产品经理黑话.md",
+      "source_line": 331
+    },
+    {
+      "id": "term-0171f59126eb",
+      "collection": "产品经理",
+      "topic": "项目管理与协作",
+      "term": "需求评审 / 技术评审",
+      "meaning": "需求 / 技术方案的评审会议",
+      "source_file": "产品经理黑话.md",
+      "source_line": 332
+    },
+    {
+      "id": "term-84a9f15bd499",
+      "collection": "产品经理",
+      "topic": "项目管理与协作",
+      "term": "上线 / 发布 / 回滚",
+      "meaning": "功能上线 / 发布新版本 / 出问题退回旧版本",
+      "source_file": "产品经理黑话.md",
+      "source_line": 333
+    },
+    {
+      "id": "term-225bd0a206d6",
+      "collection": "产品经理",
+      "topic": "项目管理与协作",
+      "term": "干系人",
+      "meaning": "Stakeholder，影响项目或被项目影响的所有人",
+      "source_file": "产品经理黑话.md",
+      "source_line": 334
+    },
+    {
+      "id": "term-09050eff6258",
+      "collection": "产品经理",
+      "topic": "项目管理与协作",
+      "term": "SOP",
+      "meaning": "Standard Operating Procedure，标准作业流程",
+      "source_file": "产品经理黑话.md",
+      "source_line": 335
+    },
+    {
+      "id": "term-5fa9a093f3d3",
+      "collection": "产品经理",
+      "topic": "项目管理与协作",
+      "term": "OKR",
+      "meaning": "Objectives and Key Results，目标与关键结果。上级管目标，下级定方法",
+      "source_file": "产品经理黑话.md",
+      "source_line": 336
+    },
+    {
+      "id": "term-81532d1e9929",
+      "collection": "产品经理",
+      "topic": "项目管理与协作",
+      "term": "KPI",
+      "meaning": "Key Performance Indicator，关键绩效指标，直接和绩效挂钩",
+      "source_file": "产品经理黑话.md",
+      "source_line": 337
+    },
+    {
+      "id": "term-2728422296db",
+      "collection": "产品经理",
+      "topic": "项目管理与协作",
+      "term": "DDL",
+      "meaning": "Deadline，截止时间（\"DDL 是第一生产力\"）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 338
+    },
+    {
+      "id": "term-1220a6e6f72b",
+      "collection": "产品经理",
+      "topic": "项目管理与协作",
+      "term": "周报 / 双周会",
+      "meaning": "汇报进度的节奏，写周报=把活编成成果",
+      "source_file": "产品经理黑话.md",
+      "source_line": 339
+    },
+    {
+      "id": "term-87cda851ce40",
+      "collection": "产品经理",
+      "topic": "岗位 JD 黑话",
+      "term": "负责XX产品从0到1",
+      "meaning": "从零开始扛一个产品，能顶半边天",
+      "source_file": "产品经理黑话.md",
+      "source_line": 345
+    },
+    {
+      "id": "term-e301fd28d036",
+      "collection": "产品经理",
+      "topic": "岗位 JD 黑话",
+      "term": "全流程 / 全链路",
+      "meaning": "从需求到上线的所有环节都要管（一个人干一个团队的活）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 346
+    },
+    {
+      "id": "term-64c051fe7692",
+      "collection": "产品经理",
+      "topic": "岗位 JD 黑话",
+      "term": "Owner 意识",
+      "meaning": "把事当自己的事，出问题别甩锅",
+      "source_file": "产品经理黑话.md",
+      "source_line": 347
+    },
+    {
+      "id": "term-52c66508d74f",
+      "collection": "产品经理",
+      "topic": "岗位 JD 黑话",
+      "term": "结果导向",
+      "meaning": "只看结果不看过程（过程惨不惨自己扛）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 348
+    },
+    {
+      "id": "term-ea47d268a852",
+      "collection": "产品经理",
+      "topic": "岗位 JD 黑话",
+      "term": "抗压能力强",
+      "meaning": "加班多、挨骂多",
+      "source_file": "产品经理黑话.md",
+      "source_line": 349
+    },
+    {
+      "id": "term-d4217bbf2032",
+      "collection": "产品经理",
+      "topic": "岗位 JD 黑话",
+      "term": "自驱力强",
+      "meaning": "没人管你，自己找活干",
+      "source_file": "产品经理黑话.md",
+      "source_line": 350
+    },
+    {
+      "id": "term-569d43e46c67",
+      "collection": "产品经理",
+      "topic": "岗位 JD 黑话",
+      "term": "跨部门沟通协作",
+      "meaning": "求别人办事（对接方：开发、设计、运营、市场、法务……）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 351
+    },
+    {
+      "id": "term-71b66d2dcab2",
+      "collection": "产品经理",
+      "topic": "岗位 JD 黑话",
+      "term": "小步快跑、快速迭代",
+      "meaning": "频繁改版改需求（开发听到就头大）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 352
+    },
+    {
+      "id": "term-f269e6be13ba",
+      "collection": "产品经理",
+      "topic": "岗位 JD 黑话",
+      "term": "数据敏感",
+      "meaning": "会用数据说话，别拍脑袋",
+      "source_file": "产品经理黑话.md",
+      "source_line": 353
+    },
+    {
+      "id": "term-196185d064e6",
+      "collection": "产品经理",
+      "topic": "岗位 JD 黑话",
+      "term": "同理心 / 用户思维",
+      "meaning": "别自嗨，站用户角度想",
+      "source_file": "产品经理黑话.md",
+      "source_line": 354
+    },
+    {
+      "id": "term-946d04c09789",
+      "collection": "产品经理",
+      "topic": "岗位 JD 黑话",
+      "term": "弹性工作制",
+      "meaning": "加班没有加班费",
+      "source_file": "产品经理黑话.md",
+      "source_line": 355
+    },
+    {
+      "id": "term-c8c9d55c66d7",
+      "collection": "产品经理",
+      "topic": "岗位 JD 黑话",
+      "term": "扁平化管理",
+      "meaning": "公司没几个人，领导直接管你",
+      "source_file": "产品经理黑话.md",
+      "source_line": 356
+    },
+    {
+      "id": "term-2614897c28a2",
+      "collection": "产品经理",
+      "topic": "岗位 JD 黑话",
+      "term": "期权激励",
+      "meaning": "工资不高（能不能上市另说）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 357
+    },
+    {
+      "id": "term-f58c3a91e961",
+      "collection": "产品经理",
+      "topic": "岗位 JD 黑话",
+      "term": "狼性文化",
+      "meaning": "往死里干，干不过就淘汰",
+      "source_file": "产品经理黑话.md",
+      "source_line": 358
+    },
+    {
+      "id": "term-b91e196291e9",
+      "collection": "产品经理",
+      "topic": "老板与同事潜台词（调侃）",
+      "term": "你来我办公室一下",
+      "meaning": "老板又想到了绝妙的 idea",
+      "source_file": "产品经理黑话.md",
+      "source_line": 366
+    },
+    {
+      "id": "term-8dab93e800a3",
+      "collection": "产品经理",
+      "topic": "老板与同事潜台词（调侃）",
+      "term": "得专注用户体验",
+      "meaning": "界面画得好看点",
+      "source_file": "产品经理黑话.md",
+      "source_line": 367
+    },
+    {
+      "id": "term-c84ecad98699",
+      "collection": "产品经理",
+      "topic": "老板与同事潜台词（调侃）",
+      "term": "产品气质不够年轻",
+      "meaning": "饱和度通通调最高",
+      "source_file": "产品经理黑话.md",
+      "source_line": 368
+    },
+    {
+      "id": "term-558311802dd8",
+      "collection": "产品经理",
+      "topic": "老板与同事潜台词（调侃）",
+      "term": "产品气质不够成熟",
+      "meaning": "界面通通做成黑的",
+      "source_file": "产品经理黑话.md",
+      "source_line": 369
+    },
+    {
+      "id": "term-e8639c622062",
+      "collection": "产品经理",
+      "topic": "老板与同事潜台词（调侃）",
+      "term": "产品不够大气",
+      "meaning": "我也不知道哪不好，反正就是不好",
+      "source_file": "产品经理黑话.md",
+      "source_line": 370
+    },
+    {
+      "id": "term-2d3a9f5483de",
+      "collection": "产品经理",
+      "topic": "老板与同事潜台词（调侃）",
+      "term": "要精致的感觉",
+      "meaning": "抄苹果",
+      "source_file": "产品经理黑话.md",
+      "source_line": 371
+    },
+    {
+      "id": "term-9d4ee7a9339f",
+      "collection": "产品经理",
+      "topic": "老板与同事潜台词（调侃）",
+      "term": "要利用用户的固有习惯",
+      "meaning": "抄同行",
+      "source_file": "产品经理黑话.md",
+      "source_line": 372
+    },
+    {
+      "id": "term-8418f5a6abfb",
+      "collection": "产品经理",
+      "topic": "老板与同事潜台词（调侃）",
+      "term": "要追求流行设计趋势",
+      "meaning": "抄微信/淘宝/滴滴",
+      "source_file": "产品经理黑话.md",
+      "source_line": 373
+    },
+    {
+      "id": "term-8dc6d86a5663",
+      "collection": "产品经理",
+      "topic": "老板与同事潜台词（调侃）",
+      "term": "产品设计应该大道至简",
+      "meaning": "复杂的我不会做",
+      "source_file": "产品经理黑话.md",
+      "source_line": 374
+    },
+    {
+      "id": "term-b14c2a83b2e8",
+      "collection": "产品经理",
+      "topic": "老板与同事潜台词（调侃）",
+      "term": "用户都应该用完即走",
+      "meaning": "回不回来我不负责",
+      "source_file": "产品经理黑话.md",
+      "source_line": 375
+    },
+    {
+      "id": "term-c9cb9dccb8cd",
+      "collection": "产品经理",
+      "topic": "老板与同事潜台词（调侃）",
+      "term": "商业模式要形成闭环",
+      "meaning": "东西放线上卖",
+      "source_file": "产品经理黑话.md",
+      "source_line": 376
+    },
+    {
+      "id": "term-83eda555cd45",
+      "collection": "产品经理",
+      "topic": "老板与同事潜台词（调侃）",
+      "term": "搭建完善的用户运营体系",
+      "meaning": "做个积分商城",
+      "source_file": "产品经理黑话.md",
+      "source_line": 377
+    },
+    {
+      "id": "term-aea8d0669601",
+      "collection": "产品经理",
+      "topic": "老板与同事潜台词（调侃）",
+      "term": "要有社交元素促进活跃度",
+      "meaning": "塞一个 IM 进去",
+      "source_file": "产品经理黑话.md",
+      "source_line": 378
+    },
+    {
+      "id": "term-531fc3a9caae",
+      "collection": "产品经理",
+      "topic": "老板与同事潜台词（调侃）",
+      "term": "你说的这是另一个问题",
+      "meaning": "我说的才是对的",
+      "source_file": "产品经理黑话.md",
+      "source_line": 379
+    },
+    {
+      "id": "term-7fbea0ac468d",
+      "collection": "产品经理",
+      "topic": "老板与同事潜台词（调侃）",
+      "term": "这个我回去再确认一下",
+      "meaning": "没想到，回去补",
+      "source_file": "产品经理黑话.md",
+      "source_line": 380
+    },
+    {
+      "id": "term-8b20f44c566a",
+      "collection": "产品经理",
+      "topic": "老板与同事潜台词（调侃）",
+      "term": "在吗？",
+      "meaning": "要改需求了",
+      "source_file": "产品经理黑话.md",
+      "source_line": 381
+    },
+    {
+      "id": "term-ba0185669343",
+      "collection": "产品经理",
+      "topic": "老板与同事潜台词（调侃）",
+      "term": "下次肯定不改了",
+      "meaning": "这次先改了再说",
+      "source_file": "产品经理黑话.md",
+      "source_line": 382
+    },
+    {
+      "id": "term-b547bf6d8bcf",
+      "collection": "产品经理",
+      "topic": "老板与同事潜台词（调侃）",
+      "term": "你的建议很好我们已经想到了",
+      "meaning": "说得有道理，赶紧提需求",
+      "source_file": "产品经理黑话.md",
+      "source_line": 383
+    },
+    {
+      "id": "term-1bdc149c4937",
+      "collection": "产品经理",
+      "topic": "老板与同事潜台词（调侃）",
+      "term": "你的建议我们会考虑的",
+      "meaning": "这建议好像有点蠢",
+      "source_file": "产品经理黑话.md",
+      "source_line": 384
+    },
+    {
+      "id": "term-1e3013ac7393",
+      "collection": "产品经理",
+      "topic": "老板与同事潜台词（调侃）",
+      "term": "你的建议很有启发性",
+      "meaning": "哈哈哈什么玩意儿",
+      "source_file": "产品经理黑话.md",
+      "source_line": 385
+    },
+    {
+      "id": "term-773bc0632035",
+      "collection": "产品经理",
+      "topic": "老板与同事潜台词（调侃）",
+      "term": "你这个需求不清晰",
+      "meaning": "我不想做（开发说）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 386
+    },
+    {
+      "id": "term-f57b38c12302",
+      "collection": "产品经理",
+      "topic": "老板与同事潜台词（调侃）",
+      "term": "目前技术实现不了",
+      "meaning": "我不想做（开发说）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 387
+    },
+    {
+      "id": "term-67767716a1cf",
+      "collection": "产品经理",
+      "topic": "老板与同事潜台词（调侃）",
+      "term": "现在排满了 / 这方案不是挺好吗",
+      "meaning": "我不想改（设计说）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 388
+    },
+    {
+      "id": "term-8bf2e385ec62",
+      "collection": "产品经理",
+      "topic": "老板与同事潜台词（调侃）",
+      "term": "没有用户是因为没做好运营",
+      "meaning": "不是我的锅（PM 说）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 389
+    },
+    {
+      "id": "term-4fa53b91ac80",
+      "collection": "产品经理",
+      "topic": "老板与同事潜台词（调侃）",
+      "term": "体验不好是技术实现问题",
+      "meaning": "不是我的锅（PM 说）",
+      "source_file": "产品经理黑话.md",
+      "source_line": 390
+    },
+    {
+      "id": "term-a81799e8456a",
+      "collection": "AI",
+      "topic": "训练与后训练",
+      "term": "预训练 / Pretraining",
+      "meaning": "在海量无标注文本上做语言建模，产出基座模型；知识截止日期由此阶段决定",
+      "source_file": "AI黑话.md",
+      "source_line": 36
+    },
+    {
+      "id": "term-c9353cd98659",
+      "collection": "AI",
+      "topic": "训练与后训练",
+      "term": "后训练 / Post-training",
+      "meaning": "预训练之后的 SFT、偏好优化、RL 等，改变的是行为（听不听人话），不是知识库存本身",
+      "source_file": "AI黑话.md",
+      "source_line": 37
+    },
+    {
+      "id": "term-b5831e491149",
+      "collection": "AI",
+      "topic": "训练与后训练",
+      "term": "继续预训练 / CPT / Mid-training",
+      "meaning": "在基座上再用领域或高质量语料接着做语言建模，介于预训练与 SFT 之间",
+      "source_file": "AI黑话.md",
+      "source_line": 38
+    },
+    {
+      "id": "term-658f07910d01",
+      "collection": "AI",
+      "topic": "训练与后训练",
+      "term": "基座 / Base",
+      "meaning": "未做指令对齐的续写模型；基准评测常报基座分，产品上的是 Chat / Instruct",
+      "source_file": "AI黑话.md",
+      "source_line": 39
+    },
+    {
+      "id": "term-f3853cfe3a7f",
+      "collection": "AI",
+      "topic": "训练与后训练",
+      "term": "Instruct / Chat / Aligned",
+      "meaning": "经过指令与偏好对齐、按对话格式回答的模型；同一家族的 Base 与 Chat 不可混比",
+      "source_file": "AI黑话.md",
+      "source_line": 40
+    },
+    {
+      "id": "term-8a25fd57e37c",
+      "collection": "AI",
+      "topic": "训练与后训练",
+      "term": "推理模型 / Reasoning model",
+      "meaning": "后训练含长链思考或 RLVR，推理时额外花 test-time compute；延迟和成本高于同尺寸快模型",
+      "source_file": "AI黑话.md",
+      "source_line": 41
+    },
+    {
+      "id": "term-50754634f5bd",
+      "collection": "AI",
+      "topic": "训练与后训练",
+      "term": "SFT",
+      "meaning": "Supervised Fine-Tuning，用指令-回答对做监督微调，学会对话格式与基本服从",
+      "source_file": "AI黑话.md",
+      "source_line": 42
+    },
+    {
+      "id": "term-febe9ed39e95",
+      "collection": "AI",
+      "topic": "训练与后训练",
+      "term": "冷启动 / Cold start",
+      "meaning": "DeepSeek-R1 等路线里，先用少量思维链样本做 SFT 种子，再大规模 RL",
+      "source_file": "AI黑话.md",
+      "source_line": 43
+    },
+    {
+      "id": "term-493632b1a760",
+      "collection": "AI",
+      "topic": "训练与后训练",
+      "term": "RLHF",
+      "meaning": "Reinforcement Learning from Human Feedback：奖励模型 + PPO 等，用人类偏好继续塑形",
+      "source_file": "AI黑话.md",
+      "source_line": 44
+    },
+    {
+      "id": "term-fc3d55f90a04",
+      "collection": "AI",
+      "topic": "训练与后训练",
+      "term": "RM / Reward Model",
+      "meaning": "奖励模型，给回答打分，供 RL 使用；分数被优化后会过时，要防奖励黑客",
+      "source_file": "AI黑话.md",
+      "source_line": 45
+    },
+    {
+      "id": "term-f8787c02ed95",
+      "collection": "AI",
+      "topic": "训练与后训练",
+      "term": "PPO",
+      "meaning": "Proximal Policy Optimization，RLHF 里常见的策略优化算法",
+      "source_file": "AI黑话.md",
+      "source_line": 46
+    },
+    {
+      "id": "term-501611fd932f",
+      "collection": "AI",
+      "topic": "训练与后训练",
+      "term": "DPO",
+      "meaning": "Direct Preference Optimization，直接用偏好对更新模型，省掉单独的 RL 循环",
+      "source_file": "AI黑话.md",
+      "source_line": 47
+    },
+    {
+      "id": "term-bc0e68c67e44",
+      "collection": "AI",
+      "topic": "训练与后训练",
+      "term": "GRPO",
+      "meaning": "Group Relative Policy Optimization，组内相对优势估计，DeepSeek 推理训练常用",
+      "source_file": "AI黑话.md",
+      "source_line": 48
+    },
+    {
+      "id": "term-7b6ac84f0d73",
+      "collection": "AI",
+      "topic": "训练与后训练",
+      "term": "RLVR",
+      "meaning": "Reinforcement Learning with Verifiable Rewards，用可自动验证的奖励（代码通过、数学答案）做 RL",
+      "source_file": "AI黑话.md",
+      "source_line": 49
+    },
+    {
+      "id": "term-01a578f3d373",
+      "collection": "AI",
+      "topic": "训练与后训练",
+      "term": "对齐 / Alignment",
+      "meaning": "让模型行为符合意图与约束；开放问题，做不到穷举保证",
+      "source_file": "AI黑话.md",
+      "source_line": 50
+    },
+    {
+      "id": "term-ed843a55c8ce",
+      "collection": "AI",
+      "topic": "训练与后训练",
+      "term": "对齐税 / Alignment tax",
+      "meaning": "对齐后某些能力或基准分下降；要在安全、服从与能力之间记账",
+      "source_file": "AI黑话.md",
+      "source_line": 51
+    },
+    {
+      "id": "term-60bee53fdcc6",
+      "collection": "AI",
+      "topic": "训练与后训练",
+      "term": "PEFT",
+      "meaning": "Parameter-Efficient Fine-Tuning，只训少量参数的微调总称",
+      "source_file": "AI黑话.md",
+      "source_line": 52
+    },
+    {
+      "id": "term-992d3ecb34c0",
+      "collection": "AI",
+      "topic": "训练与后训练",
+      "term": "LoRA / QLoRA",
+      "meaning": "低秩适配；QLoRA 在量化权重上做 LoRA，显存更省",
+      "source_file": "AI黑话.md",
+      "source_line": 53
+    },
+    {
+      "id": "term-dd0627b1471b",
+      "collection": "AI",
+      "topic": "训练与后训练",
+      "term": "全量微调 / Full FT",
+      "meaning": "更新全部参数；效果上限高，成本、遗忘风险和部署版本管理都更重",
+      "source_file": "AI黑话.md",
+      "source_line": 54
+    },
+    {
+      "id": "term-39051753868a",
+      "collection": "AI",
+      "topic": "训练与后训练",
+      "term": "冻结 / Freeze",
+      "meaning": "训练时不更新部分层；常见于只训适配器或最后几层",
+      "source_file": "AI黑话.md",
+      "source_line": 55
+    },
+    {
+      "id": "term-09b8bec5935a",
+      "collection": "AI",
+      "topic": "训练与后训练",
+      "term": "Warmup",
+      "meaning": "学习率从接近 0 爬升到峰值，稳定训练初期",
+      "source_file": "AI黑话.md",
+      "source_line": 56
+    },
+    {
+      "id": "term-4756bf95278b",
+      "collection": "AI",
+      "topic": "训练与后训练",
+      "term": "Loss spike",
+      "meaning": "训练损失突然飙高；常与坏 batch、学习率、数值溢出有关",
+      "source_file": "AI黑话.md",
+      "source_line": 57
+    },
+    {
+      "id": "term-1d98791b06bc",
+      "collection": "AI",
+      "topic": "训练与后训练",
+      "term": "欠训练 / Undertrained",
+      "meaning": "参数相对数据或算力过多，还没训够就停；Chinchilla 视角下许多早期大模型属于此类",
+      "source_file": "AI黑话.md",
+      "source_line": 58
+    },
+    {
+      "id": "term-77aae27716aa",
+      "collection": "AI",
+      "topic": "训练与后训练",
+      "term": "Overtraining",
+      "meaning": "同一算力下把较小模型训过计算最优点，换更便宜的推理；部署导向的理性选择",
+      "source_file": "AI黑话.md",
+      "source_line": 59
+    },
+    {
+      "id": "term-15d832963867",
+      "collection": "AI",
+      "topic": "训练与后训练",
+      "term": "蒸馏 / Distillation",
+      "meaning": "教师模型的输出或轨迹训练学生模型，降成本；压缩不等于能力密度一定上升，见Densing Law",
+      "source_file": "AI黑话.md",
+      "source_line": 60
+    },
+    {
+      "id": "term-af5f0ed160b3",
+      "collection": "AI",
+      "topic": "训练与后训练",
+      "term": "教师 / 学生",
+      "meaning": "蒸馏里的大模型与小模型角色",
+      "source_file": "AI黑话.md",
+      "source_line": 61
+    },
+    {
+      "id": "term-fcfb1c87d112",
+      "collection": "AI",
+      "topic": "训练与后训练",
+      "term": "Checkpoint",
+      "meaning": "某一训练步保存的权重快照；产品版本应对齐具体 checkpoint，而不是模型家族名",
+      "source_file": "AI黑话.md",
+      "source_line": 62
+    },
+    {
+      "id": "term-6b8b7587a8e9",
+      "collection": "AI",
+      "topic": "训练与后训练",
+      "term": "炼丹",
+      "meaning": "训练与调参的口语；成功依赖数据、算力、配方和运气，过程难完全复现",
+      "source_file": "AI黑话.md",
+      "source_line": 63
+    },
+    {
+      "id": "term-ea61798d1698",
+      "collection": "AI",
+      "topic": "数据与合成",
+      "term": "语料 / Corpus",
+      "meaning": "训练用的文本、代码、多模态数据集合",
+      "source_file": "AI黑话.md",
+      "source_line": 69
+    },
+    {
+      "id": "term-6ea2b81f9fdc",
+      "collection": "AI",
+      "topic": "数据与合成",
+      "term": "数据配比 / Mixture",
+      "meaning": "各来源、语言、领域在训练中的权重；配比变化会改变能力形状",
+      "source_file": "AI黑话.md",
+      "source_line": 70
+    },
+    {
+      "id": "term-1873fc0ca986",
+      "collection": "AI",
+      "topic": "数据与合成",
+      "term": "Token packing",
+      "meaning": "把短样本拼进同一序列，减少 padding 浪费",
+      "source_file": "AI黑话.md",
+      "source_line": 71
+    },
+    {
+      "id": "term-16bce8a8d2c8",
+      "collection": "AI",
+      "topic": "数据与合成",
+      "term": "Dedup",
+      "meaning": "去重；重复数据会浪费算力并抬高记忆、污染评测的风险",
+      "source_file": "AI黑话.md",
+      "source_line": 72
+    },
+    {
+      "id": "term-c7105b97e518",
+      "collection": "AI",
+      "topic": "数据与合成",
+      "term": "数据污染 / Contamination",
+      "meaning": "评测题或其改写入了训练集，榜分虚高",
+      "source_file": "AI黑话.md",
+      "source_line": 73
+    },
+    {
+      "id": "term-3ce4464fe613",
+      "collection": "AI",
+      "topic": "数据与合成",
+      "term": "Decontamination",
+      "meaning": "训练前把评测集及近重复从语料里抠掉",
+      "source_file": "AI黑话.md",
+      "source_line": 74
+    },
+    {
+      "id": "term-db15951d714a",
+      "collection": "AI",
+      "topic": "数据与合成",
+      "term": "合成数据 / Synthetic data",
+      "meaning": "模型生成再用于训练；要质检，否则幻觉会写进下一轮权重",
+      "source_file": "AI黑话.md",
+      "source_line": 75
+    },
+    {
+      "id": "term-d18b72f75d6a",
+      "collection": "AI",
+      "topic": "数据与合成",
+      "term": "Self-Instruct",
+      "meaning": "用模型批量造指令数据的方法；扩展快，空泛和重复也快",
+      "source_file": "AI黑话.md",
+      "source_line": 76
+    },
+    {
+      "id": "term-1e532bb907c2",
+      "collection": "AI",
+      "topic": "数据与合成",
+      "term": "偏好对 / Preference pair",
+      "meaning": "chosen / rejected 两条回答，供 DPO 或 RM 学习",
+      "source_file": "AI黑话.md",
+      "source_line": 77
+    },
+    {
+      "id": "term-67f307bea8fa",
+      "collection": "AI",
+      "topic": "数据与合成",
+      "term": "过程监督 / PRM",
+      "meaning": "Process Reward Model，给推理步骤打分，不只看最终答案",
+      "source_file": "AI黑话.md",
+      "source_line": 78
+    },
+    {
+      "id": "term-6c044d62a167",
+      "collection": "AI",
+      "topic": "数据与合成",
+      "term": "结果监督 / ORM",
+      "meaning": "Outcome Reward Model，只按最终对错给奖励",
+      "source_file": "AI黑话.md",
+      "source_line": 79
+    },
+    {
+      "id": "term-7cb450a227b7",
+      "collection": "AI",
+      "topic": "数据与合成",
+      "term": "Rejection sampling",
+      "meaning": "采样多条、用规则或 RM 留下最好的，再拿去 SFT 或偏好学习",
+      "source_file": "AI黑话.md",
+      "source_line": 80
+    },
+    {
+      "id": "term-049deb811e92",
+      "collection": "AI",
+      "topic": "数据与合成",
+      "term": "Gold / 金标",
+      "meaning": "视为正确答案的标注；金标错了，评测和训练会一起偏",
+      "source_file": "AI黑话.md",
+      "source_line": 81
+    },
+    {
+      "id": "term-ddf2acd24e94",
+      "collection": "AI",
+      "topic": "数据与合成",
+      "term": "标注一致性",
+      "meaning": "多人标注的同意程度；低一致性说明任务定义不清，模型再强也学不稳",
+      "source_file": "AI黑话.md",
+      "source_line": 82
+    },
+    {
+      "id": "term-c2a3f8b847ac",
+      "collection": "AI",
+      "topic": "架构",
+      "term": "Decoder-only",
+      "meaning": "只堆解码器的自回归模型，今日 LLM 主流形态",
+      "source_file": "AI黑话.md",
+      "source_line": 90
+    },
+    {
+      "id": "term-10ccc1b399e1",
+      "collection": "AI",
+      "topic": "架构",
+      "term": "Encoder-only",
+      "meaning": "BERT 一类双向编码，偏理解、检索表示，不直接做长文本生成",
+      "source_file": "AI黑话.md",
+      "source_line": 91
+    },
+    {
+      "id": "term-61e57efd2658",
+      "collection": "AI",
+      "topic": "架构",
+      "term": "Encoder-Decoder",
+      "meaning": "T5、翻译模型一类；输入编码、输出解码",
+      "source_file": "AI黑话.md",
+      "source_line": 92
+    },
+    {
+      "id": "term-e13c06e8c6d8",
+      "collection": "AI",
+      "topic": "架构",
+      "term": "Tokenizer",
+      "meaning": "文本切成 token 的规则与词表；中英、代码的压缩率不同，直接影响成本",
+      "source_file": "AI黑话.md",
+      "source_line": 93
+    },
+    {
+      "id": "term-6af70cdd7a3c",
+      "collection": "AI",
+      "topic": "架构",
+      "term": "BPE / SentencePiece",
+      "meaning": "常见分词算法；词表大小和特殊符号是产品成本与多语言表现的隐变量",
+      "source_file": "AI黑话.md",
+      "source_line": 94
+    },
+    {
+      "id": "term-634e6b8ae969",
+      "collection": "AI",
+      "topic": "架构",
+      "term": "Chat template",
+      "meaning": "对话角色、特殊符号的拼接格式；训练与推理必须一致，否则模型「不认人」",
+      "source_file": "AI黑话.md",
+      "source_line": 95
+    },
+    {
+      "id": "term-4421e6b3dfa1",
+      "collection": "AI",
+      "topic": "架构",
+      "term": "上下文窗口",
+      "meaning": "一次能吃进去的 token 上限；窗口大不等于长期记忆，也不等于检索已解决",
+      "source_file": "AI黑话.md",
+      "source_line": 96
+    },
+    {
+      "id": "term-e093d7231934",
+      "collection": "AI",
+      "topic": "架构",
+      "term": "RoPE",
+      "meaning": "Rotary Position Embedding，旋转位置编码，长上下文外推常从它改起",
+      "source_file": "AI黑话.md",
+      "source_line": 97
+    },
+    {
+      "id": "term-d27001b5a1b0",
+      "collection": "AI",
+      "topic": "架构",
+      "term": "MHA / MQA / GQA / MLA",
+      "meaning": "多头 / 多查询 / 分组查询 / 多头潜在注意力，主要改 KV Cache 体积与质量",
+      "source_file": "AI黑话.md",
+      "source_line": 98
+    },
+    {
+      "id": "term-628673426e1b",
+      "collection": "AI",
+      "topic": "架构",
+      "term": "KV Cache",
+      "meaning": "推理时缓存历史 Key/Value；长上下文和并发的显存大头",
+      "source_file": "AI黑话.md",
+      "source_line": 99
+    },
+    {
+      "id": "term-c3cc00458bdc",
+      "collection": "AI",
+      "topic": "架构",
+      "term": "MoE",
+      "meaning": "Mixture of Experts，每个 token 只激活部分专家；总参数 ≠ 单次算力",
+      "source_file": "AI黑话.md",
+      "source_line": 100
+    },
+    {
+      "id": "term-d815b9e4420b",
+      "collection": "AI",
+      "topic": "架构",
+      "term": "激活参数",
+      "meaning": "一次前向真正用到的参数量；报 MoE 规格时要同时看总参数与激活参数",
+      "source_file": "AI黑话.md",
+      "source_line": 101
+    },
+    {
+      "id": "term-37a9a2d0c487",
+      "collection": "AI",
+      "topic": "架构",
+      "term": "路由 / Router",
+      "meaning": "决定 token 去哪些专家；负载不均会浪费专家或打满少数专家",
+      "source_file": "AI黑话.md",
+      "source_line": 102
+    },
+    {
+      "id": "term-b9e19fb4a541",
+      "collection": "AI",
+      "topic": "架构",
+      "term": "SSM / Mamba",
+      "meaning": "状态空间序列模型，线性复杂度路线，与注意力混合出现",
+      "source_file": "AI黑话.md",
+      "source_line": 103
+    },
+    {
+      "id": "term-3b827ec3b86e",
+      "collection": "AI",
+      "topic": "架构",
+      "term": "Residual / 残差",
+      "meaning": "把输入加回层输出，保证深度可训练",
+      "source_file": "AI黑话.md",
+      "source_line": 104
+    },
+    {
+      "id": "term-e79ccbe914b7",
+      "collection": "AI",
+      "topic": "架构",
+      "term": "RMSNorm",
+      "meaning": "常见归一化；和 Pre-Norm / Post-Norm 一样属于训练稳定性细节",
+      "source_file": "AI黑话.md",
+      "source_line": 105
+    },
+    {
+      "id": "term-02ac3e09b4c5",
+      "collection": "AI",
+      "topic": "架构",
+      "term": "注意力汇 / Attention sink",
+      "meaning": "注意力大量落到初始 token 等位置的现象，影响长上下文与流式处理",
+      "source_file": "AI黑话.md",
+      "source_line": 106
+    },
+    {
+      "id": "term-6f953587e83e",
+      "collection": "AI",
+      "topic": "架构",
+      "term": "词表膨胀",
+      "meaning": "为语言或领域加 token；可能降序列长度，也可能弄乱旧权重的嵌入空间",
+      "source_file": "AI黑话.md",
+      "source_line": 107
+    },
+    {
+      "id": "term-86699e62b273",
+      "collection": "AI",
+      "topic": "推理、服务与成本",
+      "term": "Prefill",
+      "meaning": "并行吃完输入、建立 KV Cache 的阶段；长提示时 TTFT 的主因",
+      "source_file": "AI黑话.md",
+      "source_line": 115
+    },
+    {
+      "id": "term-9fcbf7781681",
+      "collection": "AI",
+      "topic": "推理、服务与成本",
+      "term": "Decode",
+      "meaning": "逐 token 生成；常受显存带宽限制",
+      "source_file": "AI黑话.md",
+      "source_line": 116
+    },
+    {
+      "id": "term-aa273c545dc0",
+      "collection": "AI",
+      "topic": "推理、服务与成本",
+      "term": "TTFT",
+      "meaning": "Time To First Token，首 token 延迟",
+      "source_file": "AI黑话.md",
+      "source_line": 117
+    },
+    {
+      "id": "term-9a9024f799cb",
+      "collection": "AI",
+      "topic": "推理、服务与成本",
+      "term": "TPOT / TPS",
+      "meaning": "每输出 token 耗时 / 每秒生成 token 数；口径要写清含不含排队",
+      "source_file": "AI黑话.md",
+      "source_line": 118
+    },
+    {
+      "id": "term-2bab1bed0d3a",
+      "collection": "AI",
+      "topic": "推理、服务与成本",
+      "term": "连续批处理",
+      "meaning": "按 token 进度动态进出批次，比静态 batch 更能打满 GPU",
+      "source_file": "AI黑话.md",
+      "source_line": 119
+    },
+    {
+      "id": "term-a5c3b6c1e235",
+      "collection": "AI",
+      "topic": "推理、服务与成本",
+      "term": "PagedAttention",
+      "meaning": "分页管理 KV Cache，减少显存碎片",
+      "source_file": "AI黑话.md",
+      "source_line": 120
+    },
+    {
+      "id": "term-550603abcdeb",
+      "collection": "AI",
+      "topic": "推理、服务与成本",
+      "term": "投机解码 / Speculative decoding",
+      "meaning": "小模型草稿、大模型一次性验证，换更高 decode 速度",
+      "source_file": "AI黑话.md",
+      "source_line": 121
+    },
+    {
+      "id": "term-4868ba7eb50e",
+      "collection": "AI",
+      "topic": "推理、服务与成本",
+      "term": "量化",
+      "meaning": "用更低精度存权重或激活；INT8/INT4/FP8 的速度与掉点必须实测",
+      "source_file": "AI黑话.md",
+      "source_line": 122
+    },
+    {
+      "id": "term-ecd2f05554d3",
+      "collection": "AI",
+      "topic": "推理、服务与成本",
+      "term": "AWQ / GPTQ",
+      "meaning": "权重量化常用算法名；「4bit 了」不等于产品指标不变",
+      "source_file": "AI黑话.md",
+      "source_line": 123
+    },
+    {
+      "id": "term-1e38fe73ae86",
+      "collection": "AI",
+      "topic": "推理、服务与成本",
+      "term": "满血版",
+      "meaning": "未量化或接近原精度的部署；口语，没有统一定义",
+      "source_file": "AI黑话.md",
+      "source_line": 124
+    },
+    {
+      "id": "term-17c85f753452",
+      "collection": "AI",
+      "topic": "推理、服务与成本",
+      "term": "蒸馏版 / 量化版",
+      "meaning": "为降成本得到的变体；要对同一评测集分别验收",
+      "source_file": "AI黑话.md",
+      "source_line": 125
+    },
+    {
+      "id": "term-0b491b0cf92e",
+      "collection": "AI",
+      "topic": "推理、服务与成本",
+      "term": "Tensor / Pipeline parallel",
+      "meaning": "张量并行拆层内矩阵，流水线并行拆层间；影响延迟和故障域",
+      "source_file": "AI黑话.md",
+      "source_line": 126
+    },
+    {
+      "id": "term-127455a966c9",
+      "collection": "AI",
+      "topic": "推理、服务与成本",
+      "term": "MFU",
+      "meaning": "Model FLOPs Utilization，实际达到的算力利用率；低 MFU 等于钱烧在等待上",
+      "source_file": "AI黑话.md",
+      "source_line": 127
+    },
+    {
+      "id": "term-bd57b4e6cd77",
+      "collection": "AI",
+      "topic": "推理、服务与成本",
+      "term": "Compute-bound / Memory-bound",
+      "meaning": "算力瓶颈 vs 显存带宽瓶颈；Prefill 与 Decode 常常不在同一侧",
+      "source_file": "AI黑话.md",
+      "source_line": 128
+    },
+    {
+      "id": "term-e5f533e5eea4",
+      "collection": "AI",
+      "topic": "推理、服务与成本",
+      "term": "TPM / RPM",
+      "meaning": "供应商配额：每分钟 token / 请求；不是你自己的吞吐上限",
+      "source_file": "AI黑话.md",
+      "source_line": 129
+    },
+    {
+      "id": "term-772e3743f0f8",
+      "collection": "AI",
+      "topic": "推理、服务与成本",
+      "term": "降智",
+      "meaning": "用户感知模型变笨；可能是路由到小模型、量化、超时截断、提示被压缩，不一定是权重被换",
+      "source_file": "AI黑话.md",
+      "source_line": 130
+    },
+    {
+      "id": "term-8d021593ff82",
+      "collection": "AI",
+      "topic": "提示、推理行为与 Agent",
+      "term": "Zero / Few-shot",
+      "meaning": "不给或只给少量示例就做任务；示例质量比数量更重要",
+      "source_file": "AI黑话.md",
+      "source_line": 138
+    },
+    {
+      "id": "term-0942312742e6",
+      "collection": "AI",
+      "topic": "提示、推理行为与 Agent",
+      "term": "ICL / 上下文学习",
+      "meaning": "不更新参数，只靠提示里的说明和例子临时适配任务",
+      "source_file": "AI黑话.md",
+      "source_line": 139
+    },
+    {
+      "id": "term-fd7a82c107c7",
+      "collection": "AI",
+      "topic": "提示、推理行为与 Agent",
+      "term": "CoT / 思维链",
+      "meaning": "先写中间推理再给答案；对数学、逻辑有用，对开放写作不是万金油",
+      "source_file": "AI黑话.md",
+      "source_line": 140
+    },
+    {
+      "id": "term-bb32098a039c",
+      "collection": "AI",
+      "topic": "提示、推理行为与 Agent",
+      "term": "ToT / 思维树",
+      "meaning": "在多条推理分支上搜索，比单链 CoT 更贵",
+      "source_file": "AI黑话.md",
+      "source_line": 141
+    },
+    {
+      "id": "term-04141864ecdd",
+      "collection": "AI",
+      "topic": "提示、推理行为与 Agent",
+      "term": "ReAct",
+      "meaning": "推理与行动交替：想一步、调工具、看结果、再想",
+      "source_file": "AI黑话.md",
+      "source_line": 142
+    },
+    {
+      "id": "term-929b6e2b955a",
+      "collection": "AI",
+      "topic": "提示、推理行为与 Agent",
+      "term": "Self-consistency",
+      "meaning": "采样多条思维链再投票；适合最终答案可对齐的题",
+      "source_file": "AI黑话.md",
+      "source_line": 143
+    },
+    {
+      "id": "term-782945082c2a",
+      "collection": "AI",
+      "topic": "提示、推理行为与 Agent",
+      "term": "Temperature / Top-p / Top-k",
+      "meaning": "采样随机性旋钮；评测对比时必须锁死，否则分数不可比",
+      "source_file": "AI黑话.md",
+      "source_line": 144
+    },
+    {
+      "id": "term-b35677f33fea",
+      "collection": "AI",
+      "topic": "提示、推理行为与 Agent",
+      "term": "Greedy",
+      "meaning": "每步取最高概率 token；更稳、更死板",
+      "source_file": "AI黑话.md",
+      "source_line": 145
+    },
+    {
+      "id": "term-c1e1025501ea",
+      "collection": "AI",
+      "topic": "提示、推理行为与 Agent",
+      "term": "上下文工程",
+      "meaning": "选什么放进窗口、如何压缩、如何引用，比单句 prompt 技巧更决定系统质量",
+      "source_file": "AI黑话.md",
+      "source_line": 146
+    },
+    {
+      "id": "term-7a6461c75213",
+      "collection": "AI",
+      "topic": "提示、推理行为与 Agent",
+      "term": "Grounding",
+      "meaning": "回答锚定在检索、工具或用户文档上；有引用仍可能错引",
+      "source_file": "AI黑话.md",
+      "source_line": 147
+    },
+    {
+      "id": "term-2a0cb005c06c",
+      "collection": "AI",
+      "topic": "提示、推理行为与 Agent",
+      "term": "RAG",
+      "meaning": "先检索再生成；解决的是时效与可追溯，不是推理本身",
+      "source_file": "AI黑话.md",
+      "source_line": 148
+    },
+    {
+      "id": "term-fced35938229",
+      "collection": "AI",
+      "topic": "提示、推理行为与 Agent",
+      "term": "工具调用 / Function Calling",
+      "meaning": "模型产出结构化调用，应用执行后再回传；模型通常不直接碰生产系统",
+      "source_file": "AI黑话.md",
+      "source_line": 149
+    },
+    {
+      "id": "term-179239d31630",
+      "collection": "AI",
+      "topic": "提示、推理行为与 Agent",
+      "term": "MCP",
+      "meaning": "Model Context Protocol，发现和调用外部工具、资源的协议",
+      "source_file": "AI黑话.md",
+      "source_line": 150
+    },
+    {
+      "id": "term-6593d9a459e5",
+      "collection": "AI",
+      "topic": "提示、推理行为与 Agent",
+      "term": "Computer Use / GUI Agent",
+      "meaning": "看屏幕、点控件完成任务；失败模式是认错 UI 与不可逆操作",
+      "source_file": "AI黑话.md",
+      "source_line": 151
+    },
+    {
+      "id": "term-863c9059f7a4",
+      "collection": "AI",
+      "topic": "提示、推理行为与 Agent",
+      "term": "Thinking / 思考 token",
+      "meaning": "推理模型在最终答案前花的内部 token；用户可能看不见，但账单看得见",
+      "source_file": "AI黑话.md",
+      "source_line": 152
+    },
+    {
+      "id": "term-a1479f9296b4",
+      "collection": "AI",
+      "topic": "提示、推理行为与 Agent",
+      "term": "Test-time compute",
+      "meaning": "答题时额外花的搜索、采样、验证预算；见推理时扩展",
+      "source_file": "AI黑话.md",
+      "source_line": 153
+    },
+    {
+      "id": "term-6ab59e32e172",
+      "collection": "AI",
+      "topic": "提示、推理行为与 Agent",
+      "term": "Best-of-N",
+      "meaning": "生成 N 个候选再挑；没有可靠选择器时，N 变大只增加自信错误",
+      "source_file": "AI黑话.md",
+      "source_line": 154
+    },
+    {
+      "id": "term-49070bf65e0c",
+      "collection": "AI",
+      "topic": "提示、推理行为与 Agent",
+      "term": "Verifier / 验证器",
+      "meaning": "给候选打分或验算的模型或程序；可验证任务上它比盲目加 N 更值钱",
+      "source_file": "AI黑话.md",
+      "source_line": 155
+    },
+    {
+      "id": "term-f37e9d2e1c3b",
+      "collection": "AI",
+      "topic": "提示、推理行为与 Agent",
+      "term": "HITL",
+      "meaning": "Human-in-the-Loop，人确认、修改或接管高风险步骤",
+      "source_file": "AI黑话.md",
+      "source_line": 156
+    },
+    {
+      "id": "term-241ebdc47f1d",
+      "collection": "AI",
+      "topic": "提示、推理行为与 Agent",
+      "term": "Guardrail / 护栏",
+      "meaning": "输入、输出、工具权限和成本的拦截；不是对齐的替代品",
+      "source_file": "AI黑话.md",
+      "source_line": 157
+    },
+    {
+      "id": "term-6f523a5da94f",
+      "collection": "AI",
+      "topic": "提示、推理行为与 Agent",
+      "term": "工作流 vs Agent",
+      "meaning": "步骤可枚举时用工作流；状态开放、要多步决策时才上 Agent",
+      "source_file": "AI黑话.md",
+      "source_line": 158
+    },
+    {
+      "id": "term-a4342fe0e3a5",
+      "collection": "AI",
+      "topic": "评测与榜单",
+      "term": "SOTA",
+      "meaning": "State of the Art，当前公开最好；必须标明任务、数据切分和是否用工具",
+      "source_file": "AI黑话.md",
+      "source_line": 166
+    },
+    {
+      "id": "term-cea40980d615",
+      "collection": "AI",
+      "topic": "评测与榜单",
+      "term": "Baseline",
+      "meaning": "对照系；没有强基线的「提升」无法解释",
+      "source_file": "AI黑话.md",
+      "source_line": 167
+    },
+    {
+      "id": "term-01d81090f0cb",
+      "collection": "AI",
+      "topic": "评测与榜单",
+      "term": "Ablation",
+      "meaning": "逐项拆掉模块看贡献；论文里的消融，评审里要问有没有拆你真正关心的那项",
+      "source_file": "AI黑话.md",
+      "source_line": 168
+    },
+    {
+      "id": "term-c026e1c7f150",
+      "collection": "AI",
+      "topic": "评测与榜单",
+      "term": "Benchmark",
+      "meaning": "固定题集与计分规则；饱和后区分度消失",
+      "source_file": "AI黑话.md",
+      "source_line": 169
+    },
+    {
+      "id": "term-ea372a74ad50",
+      "collection": "AI",
+      "topic": "评测与榜单",
+      "term": "Leaderboard / 榜",
+      "meaning": "公开排行；激励刷榜和污染",
+      "source_file": "AI黑话.md",
+      "source_line": 170
+    },
+    {
+      "id": "term-c53fb2608ac8",
+      "collection": "AI",
+      "topic": "评测与榜单",
+      "term": "Arena / 对战",
+      "meaning": "人类或模型两两投票，产出 Elo；偏对话体感，不代替任务评测",
+      "source_file": "AI黑话.md",
+      "source_line": 171
+    },
+    {
+      "id": "term-f2237904dace",
+      "collection": "AI",
+      "topic": "评测与榜单",
+      "term": "Elo",
+      "meaning": "对战胜率换算的相对分；样本量和对手池决定稳不稳",
+      "source_file": "AI黑话.md",
+      "source_line": 172
+    },
+    {
+      "id": "term-f48e89ddf65b",
+      "collection": "AI",
+      "topic": "评测与榜单",
+      "term": "Pass@k",
+      "meaning": "k 次尝试里至少一次通过；代码生成常用，k 要写明",
+      "source_file": "AI黑话.md",
+      "source_line": 173
+    },
+    {
+      "id": "term-d67644b11c4a",
+      "collection": "AI",
+      "topic": "评测与榜单",
+      "term": "Exact match",
+      "meaning": "字符串级完全匹配；格式差一点就零分，模型「会做但不会填空」会被低估",
+      "source_file": "AI黑话.md",
+      "source_line": 174
+    },
+    {
+      "id": "term-cae1fd697afc",
+      "collection": "AI",
+      "topic": "评测与榜单",
+      "term": "LLM-as-Judge",
+      "meaning": "用模型给模型打分；要校准位置偏差、自偏好和与人类一致率",
+      "source_file": "AI黑话.md",
+      "source_line": 175
+    },
+    {
+      "id": "term-ccbc41273b0d",
+      "collection": "AI",
+      "topic": "评测与榜单",
+      "term": "能力引出 / Elicitation",
+      "meaning": "换提示或加计算后分数跳升：模型「会」和「被问出」不是一回事",
+      "source_file": "AI黑话.md",
+      "source_line": 176
+    },
+    {
+      "id": "term-bdd5094326fb",
+      "collection": "AI",
+      "topic": "评测与榜单",
+      "term": "Eval hacking",
+      "meaning": "为榜而优化，指标与真实任务脱节；对应Goodhart 定律",
+      "source_file": "AI黑话.md",
+      "source_line": 177
+    },
+    {
+      "id": "term-4711b33db652",
+      "collection": "AI",
+      "topic": "评测与榜单",
+      "term": "Saturated",
+      "meaning": "基准被刷满，大家分数挤在天花板，难以比较",
+      "source_file": "AI黑话.md",
+      "source_line": 178
+    },
+    {
+      "id": "term-7ece4d2045ab",
+      "collection": "AI",
+      "topic": "评测与榜单",
+      "term": "MMLU / GPQA / HumanEval / SWE-bench",
+      "meaning": "知识、难题、代码、软件工程等常见基准名；内部决策仍要用自己的集",
+      "source_file": "AI黑话.md",
+      "source_line": 179
+    },
+    {
+      "id": "term-14a16574892b",
+      "collection": "AI",
+      "topic": "评测与榜单",
+      "term": "Live 基准",
+      "meaning": "题面持续更新，降低记忆与污染；成本是不可完全复现历史分数",
+      "source_file": "AI黑话.md",
+      "source_line": 180
+    },
+    {
+      "id": "term-ab6842514dcc",
+      "collection": "AI",
+      "topic": "对齐、安全与可解释",
+      "term": "Refusal",
+      "meaning": "拒答；过拒会伤效用，欠拒会出事",
+      "source_file": "AI黑话.md",
+      "source_line": 188
+    },
+    {
+      "id": "term-d4b3c8ec94c4",
+      "collection": "AI",
+      "topic": "对齐、安全与可解释",
+      "term": "Jailbreak / 越狱",
+      "meaning": "用角色扮演、编码、多轮把模型绕过拒答",
+      "source_file": "AI黑话.md",
+      "source_line": 189
+    },
+    {
+      "id": "term-c69348e0fd46",
+      "collection": "AI",
+      "topic": "对齐、安全与可解释",
+      "term": "Prompt injection",
+      "meaning": "在用户数据或工具返回里塞指令，劫持系统提示",
+      "source_file": "AI黑话.md",
+      "source_line": 190
+    },
+    {
+      "id": "term-ee2896b8ce5b",
+      "collection": "AI",
+      "topic": "对齐、安全与可解释",
+      "term": "Sycophancy / 谄媚",
+      "meaning": "顺着用户错误观点说话，讨好重于求真",
+      "source_file": "AI黑话.md",
+      "source_line": 191
+    },
+    {
+      "id": "term-27eceed624c2",
+      "collection": "AI",
+      "topic": "对齐、安全与可解释",
+      "term": "Reward hacking",
+      "meaning": "钻奖励空子，指标好看、任务没完成",
+      "source_file": "AI黑话.md",
+      "source_line": 192
+    },
+    {
+      "id": "term-bbb1d545b9b6",
+      "collection": "AI",
+      "topic": "对齐、安全与可解释",
+      "term": "Specification gaming",
+      "meaning": "满足字面规格、违背意图",
+      "source_file": "AI黑话.md",
+      "source_line": 193
+    },
+    {
+      "id": "term-d6b9c4fa9a0d",
+      "collection": "AI",
+      "topic": "对齐、安全与可解释",
+      "term": "Constitutional AI",
+      "meaning": "用书面原则加 AI 反馈做对齐的一路方法",
+      "source_file": "AI黑话.md",
+      "source_line": 194
+    },
+    {
+      "id": "term-9f076315d0ff",
+      "collection": "AI",
+      "topic": "对齐、安全与可解释",
+      "term": "Red team",
+      "meaning": "主动攻击自己的模型与产品，找越权和失败",
+      "source_file": "AI黑话.md",
+      "source_line": 195
+    },
+    {
+      "id": "term-33bc1e8fb5d3",
+      "collection": "AI",
+      "topic": "对齐、安全与可解释",
+      "term": "Mech interp",
+      "meaning": "机械可解释性：找内部电路与特征，而不是只看输入输出",
+      "source_file": "AI黑话.md",
+      "source_line": 196
+    },
+    {
+      "id": "term-869efaa9499f",
+      "collection": "AI",
+      "topic": "对齐、安全与可解释",
+      "term": "SAE",
+      "meaning": "Sparse Autoencoder，把激活拆成较稀疏的特征",
+      "source_file": "AI黑话.md",
+      "source_line": 197
+    },
+    {
+      "id": "term-ce1e390bebd5",
+      "collection": "AI",
+      "topic": "对齐、安全与可解释",
+      "term": "Superposition",
+      "meaning": "模型用同一神经元叠加多个特征；解释时不能一对一读神经",
+      "source_file": "AI黑话.md",
+      "source_line": 198
+    },
+    {
+      "id": "term-23e44ae37a8c",
+      "collection": "AI",
+      "topic": "对齐、安全与可解释",
+      "term": "Probe",
+      "meaning": "用小分类器读隐藏态里有没有某种信息",
+      "source_file": "AI黑话.md",
+      "source_line": 199
+    },
+    {
+      "id": "term-5e12a1affd8f",
+      "collection": "AI",
+      "topic": "对齐、安全与可解释",
+      "term": "Activation steering",
+      "meaning": "推理时加减激活方向，临时改变行为；实验手段，不是产品开关",
+      "source_file": "AI黑话.md",
+      "source_line": 200
+    },
+    {
+      "id": "term-e8f96b1c50c5",
+      "collection": "AI",
+      "topic": "社区口语与产品黑话",
+      "term": "大力出奇迹",
+      "meaning": "堆数据、参数、算力换能力；对应Bitter Lesson的通俗版，忽略配方与数据质量时会变成浪费",
+      "source_file": "AI黑话.md",
+      "source_line": 206
+    },
+    {
+      "id": "term-f43749e86add",
+      "collection": "AI",
+      "topic": "社区口语与产品黑话",
+      "term": "涌现",
+      "meaning": "规模上去后任务突然会做；测量方式会造成假突变，见涌现与大模型基础",
+      "source_file": "AI黑话.md",
+      "source_line": 207
+    },
+    {
+      "id": "term-b7d840d4ac87",
+      "collection": "AI",
+      "topic": "社区口语与产品黑话",
+      "term": "套壳 / Wrapper",
+      "meaning": "在别人的模型 API 外包一层 UI 或提示词；要说清自有数据、评测、工作流和责任边界",
+      "source_file": "AI黑话.md",
+      "source_line": 208
+    },
+    {
+      "id": "term-c17c05a8a471",
+      "collection": "AI",
+      "topic": "社区口语与产品黑话",
+      "term": "Copilot",
+      "meaning": "旁路辅助、人最终负责；与自动执行的 Agent 不是同一产品形态",
+      "source_file": "AI黑话.md",
+      "source_line": 209
+    },
+    {
+      "id": "term-6b882cf151f8",
+      "collection": "AI",
+      "topic": "社区口语与产品黑话",
+      "term": "开源套壳",
+      "meaning": "把开源模型稍改名称或量化后当自研；许可、评测和安全声明都要核对原模型",
+      "source_file": "AI黑话.md",
+      "source_line": 210
+    },
+    {
+      "id": "term-822cec2eaf30",
+      "collection": "AI",
+      "topic": "社区口语与产品黑话",
+      "term": "幻觉",
+      "meaning": "流畅但与事实、输入或检索不符；要分类型处理，见大模型基础",
+      "source_file": "AI黑话.md",
+      "source_line": 211
+    },
+    {
+      "id": "term-70d8f4a9a9cd",
+      "collection": "AI",
+      "topic": "社区口语与产品黑话",
+      "term": "AGI / ASI",
+      "meaning": "泛化通用智能 / 超人类智能；口号不是验收标准，产品仍按任务、成本和失败定义",
+      "source_file": "AI黑话.md",
+      "source_line": 212
+    },
+    {
+      "id": "term-3ebf8326bd5f",
+      "collection": "AI",
+      "topic": "社区口语与产品黑话",
+      "term": "端侧 / On-device",
+      "meaning": "模型跑在手机或 PC 本地；受显存、电量和更新节奏约束，密度比绝对分数更关键",
+      "source_file": "AI黑话.md",
+      "source_line": 213
+    },
+    {
+      "id": "term-ee8cacc9417d",
+      "collection": "AI",
+      "topic": "社区口语与产品黑话",
+      "term": "智能体洗稿",
+      "meaning": "把工作流、定时脚本或单次工具调用都叫 Agent，方便讲故事",
+      "source_file": "AI黑话.md",
+      "source_line": 214
+    },
+    {
+      "id": "term-6e338fefaf32",
+      "collection": "AI",
+      "topic": "评审与协作潜台词",
+      "term": "我们有自己的大模型",
+      "meaning": "可能是微调、LoRA、蒸馏或套 API；追问基座、数据、评测和许可",
+      "source_file": "AI黑话.md",
+      "source_line": 222
+    },
+    {
+      "id": "term-275801365312",
+      "collection": "AI",
+      "topic": "评审与协作潜台词",
+      "term": "效果已经 SOTA",
+      "meaning": "看的是哪个榜、是否污染、有没有内部集",
+      "source_file": "AI黑话.md",
+      "source_line": 223
+    },
+    {
+      "id": "term-ebee34927ffd",
+      "collection": "AI",
+      "topic": "评审与协作潜台词",
+      "term": "上下文 128K 完全够",
+      "meaning": "窗口标称值和有效利用长度不是一回事",
+      "source_file": "AI黑话.md",
+      "source_line": 224
+    },
+    {
+      "id": "term-c185777f9c90",
+      "collection": "AI",
+      "topic": "评审与协作潜台词",
+      "term": "上了 Agent",
+      "meaning": "可能只是多了一次搜索或函数调用",
+      "source_file": "AI黑话.md",
+      "source_line": 225
+    },
+    {
+      "id": "term-4cf626aaf650",
+      "collection": "AI",
+      "topic": "评审与协作潜台词",
+      "term": "再 prompt 一下就行",
+      "meaning": "系统问题被说成写提示；该补检索、工具、评测或换模型",
+      "source_file": "AI黑话.md",
+      "source_line": 226
+    },
+    {
+      "id": "term-e32f5fab2746",
+      "collection": "AI",
+      "topic": "评审与协作潜台词",
+      "term": "开源模型追平闭源",
+      "meaning": "某些基准接近，产品任务、稳定性和安全策略仍要分测",
+      "source_file": "AI黑话.md",
+      "source_line": 227
+    },
+    {
+      "id": "term-23c815f5870a",
+      "collection": "AI",
+      "topic": "评审与协作潜台词",
+      "term": "量化无损",
+      "meaning": "平均分还在，长尾任务或拒绝行为已经变",
+      "source_file": "AI黑话.md",
+      "source_line": 228
+    },
+    {
+      "id": "term-6ea5d6b33414",
+      "collection": "AI",
+      "topic": "评审与协作潜台词",
+      "term": "用户说模型降智了",
+      "meaning": "先查路由、配额、截断和提示压缩，再查是否换了权重",
+      "source_file": "AI黑话.md",
+      "source_line": 229
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+.glossary-modes { display:flex; flex-wrap:wrap; gap:8px; margin:0 0 18px; }
+.glossary-modes a { display:inline-flex; align-items:center; min-height:44px; padding:9px 16px; border:1px solid #dce2d5; border-radius:24px; color:#52674d; text-decoration:none; font-size:14px; }
+.glossary-modes a[aria-current="page"] { background:#28513f; border-color:#28513f; color:#fff; }
+.glossary-modes a:hover { border-color:#28513f; }
+.glossary-modes a:focus-visible,.lookup-controls :focus-visible,.lookup-pages button:focus-visible { outline:3px solid #648b67; outline-offset:3px; }
+.lookup-controls { display:grid; grid-template-columns:minmax(240px,1.5fr) minmax(150px,.7fr) minmax(200px,1fr) auto; gap:12px; align-items:end; }
+.lookup-controls label { display:block; margin-bottom:6px; color:#62735c; font-size:13px; }
+.lookup-controls input,.lookup-controls select { width:100%; min-width:0; min-height:46px; margin:0; padding:10px 12px; border:1px solid #dce2d5; border-radius:10px; background:#fffefb; font:inherit; font-size:15px; color:#253b30; }
+.lookup-controls button,.lookup-pages button { min-height:46px; }
+.lookup-note { margin:12px 0 18px; line-height:1.7; }
+#lookup-status { font-size:14px; color:#52674d; margin:0 0 12px; }
+.lookup-results { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:12px; }
+.lookup-entry { min-width:0; padding:20px 22px; border:1px solid #e0e5d8; border-radius:14px; background:#fffefb; }
+.lookup-entry .lookup-topic { margin:0 0 8px; font-size:12px; color:#74816b; }
+.lookup-entry h2 { margin:0 0 10px; font-size:20px; line-height:1.45; font-weight:600; overflow-wrap:anywhere; }
+.lookup-entry .lookup-meaning { margin:0; color:#35483b; font-size:15px; line-height:1.85; overflow-wrap:anywhere; }
+.lookup-pages { display:flex; justify-content:space-between; align-items:center; gap:12px; margin:20px 0; font-size:14px; color:#64735c; }
+@media(max-width:900px) { .lookup-controls { grid-template-columns:1fr 1fr; } .lookup-query { grid-column:1/-1; } .lookup-controls button { grid-column:1/-1; justify-self:start; } }
+@media(max-width:600px) { .lookup-results { grid-template-columns:minmax(0,1fr); } .lookup-controls { grid-template-columns:minmax(0,1fr); } .lookup-controls > * { grid-column:1; } .lookup-entry { padding:18px; } .lookup-pages { gap:8px; } }
