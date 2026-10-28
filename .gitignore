@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.sqlite3*
+*.db
+*.log
+.local/
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+.vercel/
+dist/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,5 @@
+代码与内容的授权范围
+
+LICENSE 中 MIT 协议适用于本项目自行编写的 HTML、CSS、JavaScript、Python 代码。
+词表与其衍生内容沿用原有授权，署名与授权说明见 THIRD_PARTY_NOTICES.md。
+用户草稿、反馈、AI 请求内容和 API 配置不属于发布材料。
