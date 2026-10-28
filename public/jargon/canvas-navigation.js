@@ -16,6 +16,7 @@ export function addCanvasReturn(){
 // are submitted; answers, account state and API configuration are never read.
 function mountJargonFeedback(){
  if(document.getElementById('jargon-feedback-dialog'))return;
+ if(document.querySelector('meta[name="jargon-hosting"][content="static"]')){const header=document.querySelector('.project-heading');if(header){const link=document.createElement('a');link.className='secondary jargon-feedback-trigger';link.href='https://github.com/philixz/jargon-learning/issues/new/choose';link.target='_blank';link.rel='noopener noreferrer';link.textContent='反馈 ↗';link.setAttribute('aria-label','通过 GitHub Issues 提交反馈（新窗口）');header.append(link);}return;}
  const make=(tag,text,cls)=>{const n=document.createElement(tag);if(text!==undefined)n.textContent=text;if(cls)n.className=cls;return n;};
  const trigger=make('button','反馈','secondary jargon-feedback-trigger');trigger.type='button';trigger.setAttribute('aria-haspopup','dialog');
  const header=document.querySelector('.project-heading');if(!header)return;header.append(trigger);
