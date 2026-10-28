@@ -2,6 +2,8 @@
 
 用速查、关系画布和场景练习，把 AI 与产品术语讲成明白话。
 
+**[直接打开网页版 →](https://philixz.github.io/jargon-learning/)**
+
 当前快照包含 **431 条术语记录、10 个串讲专题、16 个场景练习**。同名术语保留不同语境；专题关系经过人工整理，不自动给所有概念连线。
 
 ![术语速查](docs/images/glossary.png)
@@ -16,9 +18,15 @@
 - 使用内置服务接收反馈；记录留在运行服务的电脑。
 - 可选配置云端模型，获得依据公开练习和参考要点的 AI 辅助判答。
 
-这是可独立运行的开源项目。**无需工具箱账号或本地模型即可查阅与练习。** 自定义主题编辑、原工具箱账号、配额、共享 GPU 队列和公网部署不包含在此版本中。
+这是可独立运行的开源项目。**无需工具箱账号或本地模型即可查阅与练习。** 自定义主题编辑、原工具箱账号、配额、共享 GPU 队列和 AI 后端公网服务不包含在此版本中。
 
-## 快速开始
+## 在线使用
+
+打开 [黑话学习工具网页版](https://philixz.github.io/jargon-learning/)，无需安装。支持 431 条术语速查、10 个专题画布、16 个场景练习、参考要点和浏览器内自评。
+
+GitHub Pages 仅托管静态网页，在线版暂未连接 AI 判答；反馈入口转到 GitHub Issues。API Key 不会放进网页。希望使用可选云端 AI 或本机反馈收件时，请按下文运行本地服务。
+
+## 本地运行
 
 需要 Python 3.10 或更高版本，不需要安装第三方包。
 
@@ -28,7 +36,7 @@
 python serve.py
 ```
 
-浏览器打开 **http://127.0.0.1:18120/**。
+浏览器打开 [本地预览](http://127.0.0.1:18120/)。这个地址只用于本机开发，在线访问请用上方网页版入口。
 
 Windows 如果 `python` 不可用，可用 `py -3 serve.py`。端口已占用时运行 `python serve.py --port 18121`，再访问对应地址。按 `Ctrl+C` 停止服务。
 
@@ -93,7 +101,9 @@ python tests/check_project.py
 
 ## 当前状态与计划
 
-主仓库：[philixz/jargon-learning](https://github.com/philixz/jargon-learning)，默认分支为 `main`。当前以本地运行和测试为主，主站与公网通道尚未恢复。
+主仓库：[philixz/jargon-learning](https://github.com/philixz/jargon-learning)，默认分支为 `main`。静态网页版通过 GitHub Pages 发布，主站 Vercel 与本地公网通道仍保持关闭。
+
+发布流程见 `.github/workflows/pages.yml`：验证通过后仅将 `public/` 构建到 `dist/`，适配仓库子路径并部署到 Pages。不会发布本地服务、密钥或运行数据。
 
 后续方向：内容校对与专题扩充、移动端细节、可配置的反馈接收、可选 AI 适配器完善。自定义主题功能暂缓。
 
