@@ -101,13 +101,13 @@ python tests/check_project.py
 
 ## 当前状态与计划
 
-主仓库：[philixz/jargon-learning](https://github.com/philixz/jargon-learning)，默认分支为 `main`。静态网页版通过 GitHub Pages 发布，主站 Vercel 与本地公网通道仍保持关闭。
+主仓库：[philixz/jargon-learning](https://github.com/philixz/jargon-learning)，默认分支为 `main`。静态网页版通过 GitHub Pages 发布，不依赖工具箱的本地公网通道。
 
 发布流程见 `.github/workflows/pages.yml`：验证通过后仅将 `public/` 构建到 `dist/`，适配仓库子路径并部署到 Pages。不会发布本地服务、密钥或运行数据。
 
 后续方向：内容校对与专题扩充、移动端细节、可配置的反馈接收、可选 AI 适配器完善。自定义主题功能暂缓。
 
-[青椒工具箱主站](https://walaoxia-ai-toolbox.vercel.app/)可能处于暂停测试状态；本项目的本地功能不依赖主站可用性。
+更多工具见 [青椒工具箱主站](https://qingjiao-toolbox-v2.vercel.app/)。黑话学习工具的速查、画布与参考练习可独立使用。
 
 ## 协议
 
