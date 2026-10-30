@@ -16,6 +16,8 @@ class PagesExport(unittest.TestCase):
             self.assertFalse((root / 'serve.py').exists())
             self.assertFalse((root / '.env').exists())
             self.assertFalse((root / '.local').exists())
+            self.assertFalse((root / 'content').exists())
+            self.assertFalse(list(root.rglob('report.csv')))
             for page in root.rglob('*.html'):
                 text = page.read_text(encoding='utf-8')
                 self.assertIn('name="jargon-hosting" content="static"', text)

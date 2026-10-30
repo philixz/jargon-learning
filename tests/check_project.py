@@ -24,7 +24,7 @@ def check():
   assert '127.0.0.1:18090' not in text and '127.0.0.1:18116' not in text,f'{file.name}: leaked runtime dependency'
  for name in ['README.md','LICENSE','LICENSE_SCOPE.txt','THIRD_PARTY_NOTICES.md','CONTRIBUTING.md','.gitignore','.env.example','docs/images/glossary.png','docs/images/canvas.png']:assert (ROOT/name).is_file(),f'missing {name}'
  if (ROOT/'.git').exists():
-  tracked=subprocess.check_output(['git','ls-files'],cwd=ROOT,text=True).splitlines()
+  tracked=subprocess.check_output(['git','ls-files','--cached','--others','--exclude-standard'],cwd=ROOT,text=True).splitlines()
   for name in tracked:
    path=Path(name);assert not (path.name.startswith('.env') and path.name!='.env.example');assert path.suffix not in {'.key','.pem','.db','.sqlite3','.log'};assert '.local' not in path.parts
    raw=(ROOT/name).read_bytes()

@@ -1,0 +1,346 @@
+{
+  "version": 1,
+  "records": 483,
+  "topics": 12,
+  "exercises": 16,
+  "collections": {
+    "产品经理": 289,
+    "AI": 194
+  },
+  "reviewed": 102,
+  "legacyPreserved": 381,
+  "blockedTerms": [],
+  "blockedTopics": [],
+  "references": [
+    {
+      "id": "aipm-base",
+      "title": "AI-PM-Wiki/AIPM 基础词表",
+      "url": "https://github.com/AI-PM-Wiki/AIPM"
+    },
+    {
+      "id": "project-original",
+      "title": "黑话学习工具自拟整理",
+      "url": "https://github.com/philixz/jargon-learning"
+    },
+    {
+      "id": "retrieval",
+      "title": "检索与 RAG",
+      "url": "https://docs.langchain.com/oss/python/deepagents/retrieval"
+    },
+    {
+      "id": "embedding",
+      "title": "Embedding 及检索用途",
+      "url": "https://developers.openai.com/api/docs/guides/embeddings"
+    },
+    {
+      "id": "semantic",
+      "title": "语义搜索与向量存储",
+      "url": "https://developers.openai.com/api/docs/guides/retrieval"
+    },
+    {
+      "id": "split",
+      "title": "文档分块",
+      "url": "https://docs.langchain.com/oss/python/integrations/splitters"
+    },
+    {
+      "id": "hf-glossary",
+      "title": "模型与训练术语",
+      "url": "https://huggingface.co/docs/transformers/glossary"
+    },
+    {
+      "id": "intent",
+      "title": "对话意图",
+      "url": "https://docs.cloud.google.com/dialogflow/cx/docs/concept/intent"
+    },
+    {
+      "id": "parameter",
+      "title": "会话参数",
+      "url": "https://docs.cloud.google.com/dialogflow/cx/docs/concept/parameter"
+    },
+    {
+      "id": "flow",
+      "title": "多轮对话路径",
+      "url": "https://docs.cloud.google.com/dialogflow/cx/docs/concept/flow"
+    },
+    {
+      "id": "handler",
+      "title": "对话状态与事件处理",
+      "url": "https://docs.cloud.google.com/dialogflow/cx/docs/concept/handler"
+    },
+    {
+      "id": "fulfillment",
+      "title": "对话履约",
+      "url": "https://docs.cloud.google.com/dialogflow/cx/docs/concept/fulfillment"
+    },
+    {
+      "id": "webhook",
+      "title": "调用后端业务逻辑",
+      "url": "https://docs.cloud.google.com/dialogflow/cx/docs/concept/webhook"
+    },
+    {
+      "id": "diffusion",
+      "title": "扩散模型工具与任务",
+      "url": "https://huggingface.co/docs/diffusers/index"
+    },
+    {
+      "id": "txt2img",
+      "title": "文生图",
+      "url": "https://huggingface.co/docs/diffusers/using-diffusers/conditional_image_generation"
+    },
+    {
+      "id": "img2img",
+      "title": "图生图",
+      "url": "https://huggingface.co/docs/diffusers/using-diffusers/img2img"
+    },
+    {
+      "id": "classification",
+      "title": "图像分类",
+      "url": "https://huggingface.co/docs/transformers/tasks/image_classification"
+    },
+    {
+      "id": "detection",
+      "title": "目标检测",
+      "url": "https://huggingface.co/docs/transformers/tasks/object_detection"
+    },
+    {
+      "id": "vision",
+      "title": "图像与文本输入输出",
+      "url": "https://huggingface.co/docs/transformers/tasks/image_text_to_text"
+    },
+    {
+      "id": "ocr",
+      "title": "图像文字识别",
+      "url": "https://huggingface.co/docs/transformers/model_doc/trocr"
+    },
+    {
+      "id": "segmentation",
+      "title": "图像分割",
+      "url": "https://huggingface.co/docs/transformers/tasks/semantic_segmentation"
+    },
+    {
+      "id": "rerank",
+      "title": "检索后重排序",
+      "url": "https://www.sbert.net/examples/sentence_transformer/applications/retrieve_rerank/README.html"
+    },
+    {
+      "id": "regression",
+      "title": "回归测试术语",
+      "url": "https://www.nist.gov/glossary-term/30681"
+    },
+    {
+      "id": "handoff",
+      "title": "人工接管标记与真实交接的区别",
+      "url": "https://docs.cloud.google.com/python/docs/reference/dialogflow/latest/google.cloud.dialogflow_v2.types.ResponseMessage.LiveAgentHandoff"
+    },
+    {
+      "id": "nlp-basics",
+      "title": "自然语言处理及任务范围",
+      "url": "https://huggingface.co/learn/llm-course/chapter1/2"
+    },
+    {
+      "id": "asr-guide",
+      "title": "语音转文字任务",
+      "url": "https://huggingface.co/docs/transformers/tasks/asr"
+    },
+    {
+      "id": "tts-guide",
+      "title": "文字转语音任务",
+      "url": "https://huggingface.co/docs/transformers/tasks/text-to-speech"
+    },
+    {
+      "id": "classification-metrics",
+      "title": "分类指标与计分口径",
+      "url": "https://scikit-learn.org/stable/modules/model_evaluation.html"
+    },
+    {
+      "id": "agreement-metric",
+      "title": "标注者一致性与 Kappa",
+      "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.cohen_kappa_score.html"
+    },
+    {
+      "id": "hybrid-search",
+      "title": "全文与向量的混合检索",
+      "url": "https://www.elastic.co/docs/solutions/search/hybrid-search"
+    },
+    {
+      "id": "bm25-scoring",
+      "title": "BM25 相似度与评分",
+      "url": "https://www.elastic.co/docs/reference/elasticsearch/index-settings/similarity"
+    },
+    {
+      "id": "ranking-metrics",
+      "title": "排序检索评估",
+      "url": "https://www.elastic.co/docs/reference/elasticsearch/rest-apis/search-rank-eval"
+    },
+    {
+      "id": "yolo-tasks",
+      "title": "YOLO 模型任务边界",
+      "url": "https://docs.ultralytics.com/tasks/"
+    },
+    {
+      "id": "federated-learning",
+      "title": "联邦学习概览",
+      "url": "https://www.tensorflow.org/federated/federated_learning"
+    },
+    {
+      "id": "federated-dp",
+      "title": "联邦学习与差分隐私",
+      "url": "https://www.tensorflow.org/federated/tutorials/federated_learning_with_differential_privacy"
+    },
+    {
+      "id": "webrtc-peer",
+      "title": "WebRTC 连接与信令、中继",
+      "url": "https://webrtc.org/getting-started/peer-connections"
+    },
+    {
+      "id": "cmmi-intro",
+      "title": "CMMI 与能力改进",
+      "url": "https://cmmiinstitute.com/cmmi/intro"
+    },
+    {
+      "id": "sre-sla",
+      "title": "SLI、SLO 与 SLA",
+      "url": "https://sre.google/sre-book/service-level-objectives/"
+    },
+    {
+      "id": "agent-safety",
+      "title": "提示注入与多层防护",
+      "url": "https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/mitigate-jailbreaks"
+    },
+    {
+      "id": "human-review",
+      "title": "计算机操作中的人工复核",
+      "url": "https://claude.com/resources/articles/best-practices-for-computer-and-browser-use-with-claude"
+    },
+    {
+      "id": "annotation-job",
+      "title": "数据标注任务与说明",
+      "url": "https://docs.cloud.google.com/vertex-ai/docs/samples/aiplatform-create-data-labeling-job-sample"
+    },
+    {
+      "id": "devops-definition",
+      "title": "DevOps 的范围与实践",
+      "url": "https://aws.amazon.com/devops/what-is-devops/"
+    },
+    {
+      "id": "sft-guide",
+      "title": "监督微调训练器",
+      "url": "https://huggingface.co/docs/trl/sft_trainer"
+    },
+    {
+      "id": "dpo-paper",
+      "title": "直接偏好优化原论文",
+      "url": "https://arxiv.org/abs/2305.18290"
+    },
+    {
+      "id": "rlhf-paper",
+      "title": "InstructGPT 人类反馈训练论文",
+      "url": "https://arxiv.org/abs/2203.02155"
+    },
+    {
+      "id": "post-training",
+      "title": "TRL 后训练方法",
+      "url": "https://huggingface.co/docs/trl/index"
+    },
+    {
+      "id": "peft-guide",
+      "title": "参数高效微调",
+      "url": "https://huggingface.co/docs/peft/index"
+    },
+    {
+      "id": "lora-paper",
+      "title": "LoRA 原论文",
+      "url": "https://arxiv.org/abs/2106.09685"
+    },
+    {
+      "id": "qlora-paper",
+      "title": "QLoRA 原论文",
+      "url": "https://arxiv.org/abs/2305.14314"
+    },
+    {
+      "id": "domain-pretraining",
+      "title": "领域继续预训练研究",
+      "url": "https://arxiv.org/abs/2004.10964"
+    },
+    {
+      "id": "dedup-paper",
+      "title": "训练数据去重研究",
+      "url": "https://arxiv.org/abs/2107.06499"
+    },
+    {
+      "id": "synthetic-stories",
+      "title": "TinyStories 合成训练语料研究",
+      "url": "https://arxiv.org/abs/2305.07759"
+    },
+    {
+      "id": "sentencepiece",
+      "title": "SentencePiece 官方项目",
+      "url": "https://github.com/google/sentencepiece"
+    },
+    {
+      "id": "tokenizer-guide",
+      "title": "Tokenizer 接口与词表",
+      "url": "https://huggingface.co/docs/transformers/main_classes/tokenizer"
+    },
+    {
+      "id": "chat-template",
+      "title": "对话模板与角色格式",
+      "url": "https://huggingface.co/docs/transformers/chat_templating"
+    },
+    {
+      "id": "causal-lm",
+      "title": "因果语言建模",
+      "url": "https://huggingface.co/docs/transformers/tasks/language_modeling"
+    },
+    {
+      "id": "bert-architecture",
+      "title": "BERT 编码器架构",
+      "url": "https://huggingface.co/docs/transformers/model_doc/bert"
+    },
+    {
+      "id": "t5-architecture",
+      "title": "T5 编码器解码器架构",
+      "url": "https://huggingface.co/docs/transformers/model_doc/t5"
+    },
+    {
+      "id": "contamination-paper",
+      "title": "大模型评测数据污染研究",
+      "url": "https://arxiv.org/abs/2310.17589"
+    },
+    {
+      "id": "rrf-guide",
+      "title": "倒数排名融合",
+      "url": "https://www.elastic.co/docs/reference/elasticsearch/rest-apis/reciprocal-rank-fusion"
+    },
+    {
+      "id": "knn-guide",
+      "title": "精确与近似向量检索",
+      "url": "https://www.elastic.co/docs/solutions/search/vector/knn"
+    },
+    {
+      "id": "knn-filter",
+      "title": "向量检索的过滤条件",
+      "url": "https://www.elastic.co/docs/reference/query-languages/query-dsl/query-dsl-knn-query"
+    },
+    {
+      "id": "vector-similarity",
+      "title": "句向量相似度",
+      "url": "https://www.sbert.net/docs/sentence_transformer/usage/semantic_textual_similarity.html"
+    },
+    {
+      "id": "captioning",
+      "title": "图像描述任务",
+      "url": "https://huggingface.co/docs/transformers/tasks/image_captioning"
+    },
+    {
+      "id": "inpainting",
+      "title": "局部重绘与蒙版",
+      "url": "https://huggingface.co/docs/diffusers/using-diffusers/inpaint"
+    },
+    {
+      "id": "ner-guide",
+      "title": "实体识别与词元分类",
+      "url": "https://huggingface.co/docs/transformers/tasks/token_classification"
+    }
+  ]
+}
