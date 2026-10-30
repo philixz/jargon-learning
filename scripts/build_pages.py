@@ -6,6 +6,13 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 
 def build(destination, base):
+    # Validate generated data without editing it, before packaging public assets.
+    if (ROOT / 'content/terms.json').exists():
+        try:
+            from scripts.content_pipeline import export
+        except ModuleNotFoundError:
+            from content_pipeline import export
+        export(ROOT, check=True)
     base = '/' + base.strip('/') if base.strip('/') else ''
     if not re.fullmatch(r'(?:/[A-Za-z0-9_-]+)*', base):
         raise ValueError('Invalid Pages base path')

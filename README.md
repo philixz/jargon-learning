@@ -4,7 +4,7 @@
 
 **[直接打开网页版 →](https://philixz.github.io/jargon-learning/)**
 
-当前快照包含 **431 条术语记录、10 个串讲专题、16 个场景练习**。同名术语保留不同语境；专题关系经过人工整理，不自动给所有概念连线。
+当前本地整理版包含 **483 条术语记录、12 个串讲专题、16 个场景练习**。同名术语保留不同语境；专题关系经过人工整理，不自动给所有概念连线。
 
 ![术语速查](docs/images/glossary.png)
 ![知识画布](docs/images/canvas.png)
@@ -22,7 +22,7 @@
 
 ## 在线使用
 
-打开 [黑话学习工具网页版](https://philixz.github.io/jargon-learning/)，无需安装。支持 431 条术语速查、10 个专题画布、16 个场景练习、参考要点和浏览器内自评。
+打开 [黑话学习工具网页版](https://philixz.github.io/jargon-learning/)，无需安装。线上为最近发布版本；本轮内容整理仍在本地验收，尚未更新线上。
 
 GitHub Pages 仅托管静态网页，在线版暂未连接 AI 判答；反馈入口转到 GitHub Issues。API Key 不会放进网页。希望使用可选云端 AI 或本机反馈收件时，请按下文运行本地服务。
 
@@ -85,6 +85,19 @@ LICENSE                  自行编写代码的 MIT 协议
 LICENSE_SCOPE.txt        代码与内容的授权范围
 THIRD_PARTY_NOTICES.md   内容授权和修改说明
 ```
+
+## 持续内容整理
+
+产品新需求统一记录在 [需求计划清单](docs/requirements.md)，功能范围确认后再安排开发。
+
+来源档案、规范词条和专题分别保存在 `content/`；网页数据由审核后的规范库生成。已校对数量由生成的内容清单记录，原有未重审记录保留并标记为存量待复核。来源候选不等于新增词条，不因来源更新自动覆盖解释。
+
+```sh
+python scripts/content_pipeline.py export
+python scripts/content_pipeline.py validate
+```
+
+新链接的读取、比对、人工决定、专题与发布步骤见 [内容维护流程](docs/content-workflow.md)，本轮交付见 [批次报告](docs/content-batch-20261029.md)。原始快照与完整候选清单保存在被 Git 排除的 `.local/`，不随网页发布。
 
 ## 本地验证
 
