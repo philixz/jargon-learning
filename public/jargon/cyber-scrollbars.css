@@ -1,0 +1,10 @@
+/* Quiet, consistent scroll handles, including nested result and canvas panels. */
+*{scrollbar-width:thin;scrollbar-color:#607980 #10191e}
+::-webkit-scrollbar{width:8px;height:8px}
+::-webkit-scrollbar-track{background:#10191e;border-radius:8px}
+::-webkit-scrollbar-thumb{background:#607980;border:2px solid #10191e;border-radius:8px;min-height:38px}
+::-webkit-scrollbar-thumb:hover{background:#84b9be}
+::-webkit-scrollbar-thumb:active{background:#f3df49}
+::-webkit-scrollbar-corner{background:#10191e}
+input[type=range]{accent-color:#f3df49}
+@media(forced-colors:active){*{scrollbar-color:auto}}

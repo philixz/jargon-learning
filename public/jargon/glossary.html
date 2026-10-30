@@ -1,26 +1,10 @@
-<!doctype html>
-<html lang="zh-CN">
-<head>
-  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="theme-color" content="#254e40"><title>全部术语速查 · 黑话学习工具</title>
-  <meta name="description" content="483 条产品经理与 AI 术语，按主题检索；另有 16 个场景练习。">
-  <link rel="stylesheet" href="/base.css"><link rel="stylesheet" href="/jargon/style.css"><link rel="stylesheet" href="/jargon/layout-compact.css">
-  <link rel="stylesheet" href="/jargon/glossary.css"><link rel="stylesheet" href="/jargon/canvas.css"><script type="module" src="/jargon/glossary.js"></script>
-</head>
-<body><main class="jargon-shell glossary-shell">
-  <header class="project-heading"><div><h1>全部术语，随手查。</h1><p>先查明白，再回到场景里练习。</p></div><span class="pill">483 条术语记录</span></header>
-  <nav class="glossary-modes" aria-label="黑话学习方式"><a href="/jargon/glossary.html" aria-current="page">全部术语 · 483</a><a href="/jargon/canvas.html">知识小画布</a><a href="/jargon/">场景练习 · 16 →</a></nav>
-  <form id="lookup-form" class="lookup-controls" role="search">
-    <div class="lookup-query"><label for="lookup-search">搜索术语或释义</label><input id="lookup-search" type="search" placeholder="例如：赋能、LoRA、留存" autocomplete="off"></div>
-    <div><label for="lookup-collection">词表</label><select id="lookup-collection"><option value="">全部词表 · 483</option><option value="产品经理">产品经理 · 289</option><option value="AI">AI · 194</option></select></div>
-    <div><label for="lookup-topic">主题</label><select id="lookup-topic"><option value="">全部主题</option></select></div>
-    <button id="lookup-reset" class="secondary" type="reset">重置筛选</button>
-  </form>
-  <p class="quiet lookup-note">产品经理 289 条 · AI 194 条。按原词表逐条收录，同名词保留不同语境；“潜台词”等调侃表达仅帮助理解语境。</p>
-  <p id="lookup-status" role="status" aria-live="polite">正在加载完整词表…</p>
-  <button id="lookup-retry" class="secondary" type="button" hidden>重新加载词表</button>
-  <section id="lookup-results" class="lookup-results" aria-label="术语释义"></section>
-  <section id="lookup-empty" class="card" hidden><h2>没有找到匹配的术语</h2><p>试试更短的关键词，或重置词表和主题筛选。</p></section>
-  <nav id="lookup-pages" class="lookup-pages" aria-label="词表分页" hidden><button id="lookup-prev" class="secondary" type="button">← 上一页</button><span id="lookup-page"></span><button id="lookup-next" class="secondary" type="button">下一页 →</button></nav>
-  <p class="quiet">需要检验理解？<a href="/jargon/">进入现有 16 个场景练习与 AI 判答 →</a></p>
-</main></body></html>
+<!doctype html><html lang="zh-CN"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#0d1215"><title>术语速查 · 黑话学习工具</title><meta name="description" content="483 条产品经理与 AI 术语，查定义、例子和边界，进入相关专题与练习。"><link rel="stylesheet" href="/jargon/glossary-cyber.css"><script type="module" src="/jargon/glossary.js"></script><link rel="stylesheet" href="/jargon/cyber-scrollbars.css"></head>
+<body><a class="skip-link" href="#lookup-search">跳到搜索</a>
+<header class="project-heading"><a href="../" class="brand"><span class="brand-mark" aria-hidden="true">知</span><span>黑话学习工具<small>JARGON / KNOWLEDGE SYSTEM</small></span></a><nav class="glossary-modes" aria-label="黑话学习方式"><a href="/jargon/glossary.html" aria-current="page">术语速查</a><a href="/jargon/canvas.html">知识画布</a><a href="/jargon/">场景练习</a></nav></header>
+<div class="app-layout"><aside class="directory"><details id="topic-directory" open><summary>主题目录<span aria-hidden="true">＋</span></summary><div class="directory-body"><p class="eyebrow">INDEX / 主题目录</p><nav id="topic-groups" aria-label="按学习方向筛选"></nav></div></details><div class="directory-footer"><span class="status-dot" aria-hidden="true"></span><span>本地预览<small>LOCAL PREVIEW / V1</small></span><a href="/jargon/" id="exercise-count-link">进入场景练习 →</a></div></aside>
+<main class="workspace"><section class="search-section" aria-labelledby="page-title"><div class="intro-line"><div><p class="eyebrow">KNOWLEDGE / LOOKUP</p><h1 id="page-title">查术语，<span>读懂边界。</span></h1></div><span class="edition">01 / 术语速查</span></div><p id="library-stats" class="library-stats">正在读取词库…</p>
+<form id="lookup-form" role="search"><div class="search-box"><span class="search-icon" aria-hidden="true"></span><label class="sr-only" for="lookup-search">搜索术语、别名或释义</label><input id="lookup-search" type="search" placeholder="搜索术语、别名或释义" autocomplete="off"><kbd aria-hidden="true">/</kbd></div><div class="filters"><label><span class="sr-only">词表</span><select id="lookup-collection"><option value="">全部词表</option></select></label><label><span class="sr-only">主题</span><select id="lookup-topic"><option value="">全部主题</option></select></label><button type="reset" class="text-button">重置筛选</button><span class="filter-help">同名词保留不同语境</span></div></form></section>
+<p id="lookup-status" class="sr-only" role="status" aria-live="polite">正在加载完整词表…</p><div id="load-error" class="empty-state" hidden><h2>词库暂时未能加载</h2><p>请检查本地服务后重试。</p><button id="lookup-retry" type="button" class="primary">重新加载</button></div>
+<div id="lookup-workspace" class="lookup-workspace" hidden><section class="results-panel panel" aria-labelledby="result-heading"><div class="panel-heading"><h2 id="result-heading">搜索结果</h2><span id="result-count"></span></div><div id="lookup-results" class="result-list" aria-label="匹配的术语"></div><div id="lookup-empty" class="empty-state" hidden><span class="empty-symbol" aria-hidden="true">∅</span><h3>没有找到匹配术语</h3><p>试试更短的关键词，或重置筛选。</p><button id="empty-reset" type="button" class="secondary">清空筛选</button></div><nav id="lookup-pages" class="pagination" aria-label="词表分页"><button id="lookup-prev" type="button" aria-label="上一页">←</button><span id="lookup-page"></span><button id="lookup-next" type="button" aria-label="下一页">→</button></nav></section><article id="lookup-detail" class="detail-panel panel lookup-entry" aria-labelledby="detail-heading"><p class="detail-placeholder">选择一条术语，查看它的定义与边界。</p></article></div>
+<footer class="workspace-footer"><span>先查明白，再用自己的话解释。</span><span>LOOK UP → CONNECT → PRACTICE</span></footer></main></div></body></html>
